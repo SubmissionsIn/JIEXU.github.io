@@ -24,16 +24,16 @@ I am currently working on multi-view machine learning and multi-view 3D computer
 </span>
 
 I am excited about the ongoing developments in the field of artificial intelligence represented by machine learning and deep learning. The research topics that I am currently working on include:
-1. 3D scene understanding with semi-/weakly-supervised learning towards real-world applications.
-2. Robust self-supervised learning methods for handling irregular multi-view/modal/graph/omics data.
+1. 3D scene understanding with semi-/weakly supervised learning for real-world applications.
+2. General and robust self-supervised learning methods across multi-view/modal/graph/omics.
 
-Before that, the research during my Ph.D. was machine learning and self-supervised learning on multi-view/modal/graph/omics. In these areas, I am focusing on providing novel insights to the research topics, such as:
-1. **Interpretability of multi-view learning** (ICCV2021, Inf.Fus.2023). First try to disentangle view-common and view-private information in generative models that can produce interpretable multi-view representations.
-2. **Data heterogeneity of multi-view learning** (CVPR2022, NeurIPS2023). Propose to learn multi-level features to avoid objective conflicts, and a general and theory-driven self-weighting contrastive learning framework that is adaptive to heterogeneous multi-view data.
-3. **Data incompleteness of multi-view learning** (AAAI2021, TIP2023). Propose an imputation-free deep framework for effectively handling incomplete multi-view data, and establish the connection between domain adaptation and multi-view by incorporating distribution discrepancy.
-4. **Algorithm robustness towards noisy views** (TKDE2022, CVPR2024). First to theoretically investigate consistency / complementarity / noise robustness for multi-view learning, and suggest to consider the side effects of noisy views for algorithm designs in practical scenarios.
-   
-Fortunately, my research has gained the attention of scholars in the same field and has been successfully applied by other scholars in practical application fields, such as medical data analysis, internet data analysis, etc. However, the practical multi-view application scenarios still face many challenges that need to be further studied. I summarized some application-related [papers](https://github.com/SubmissionsIn/MVC4Applications) hoping to promote academic research and application as well as for reference of future work.
+Before that, the research during my Ph.D. was machine learning and self-supervised learning on irregular multi-view/modal/graph/omics data. These areas can be unified into multi-view machine learning, and I am focusing on providing novel insights to the community, such as:
+1. **Model robustness** (TKDE2022, CVPR2024). First to theoretically investigate consistency/complementarity/noise robustness for multi-view learning, and suggest to consider the side effects of noisy views for algorithm designs in practical scenarios.
+2. **Model interpretability** (ICCV2021, Inf.Fus.2023). First try to disentangle view-common and view-private information with generative models, which can produce human-understandable multi-view representations to increase the model interpretability.
+3. **Data heterogeneity** (CVPR2022, NeurIPS2023). Propose a multi-level framework to promote contrastive learning in multi-view learning, and a general theory-driven self-weighting contrastive learning method that is adaptive to heterogeneous data.
+4. **Data incompleteness** (AAAI2021, TIP2023). Propose the first imputation-free deep framework for handling incomplete multi-view data, and establish the connection between domain adaptation and multi-view by incorporating distribution discrepancy.
+
+Fortunately, my research has gained the attention of scholars in the same field and has been successfully applied by others in practical application fields, such as medical data analysis, internet data analysis, etc. However, the practical multi-view application scenarios still face many challenges that need to be further studied. I summarized some application-related [papers](https://github.com/SubmissionsIn/MVC4Applications) hoping to promote academic research and application as well as for the reference of future work.
 
 # 🤗 News
 
