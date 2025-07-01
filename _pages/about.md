@@ -32,6 +32,7 @@ Before that, the research during my Ph.D. was multi-view/modal/graph/omics, mach
 2. **Data heterogeneity of multi-view learning** (CVPR2022, NeurIPS2023). Propose to learn multi-level features to avoid objective conflicts, and a general and theory-driven self-weighting contrastive learning framework that is adaptive to heterogeneous multi-view data.
 3. **Data incompleteness of multi-view learning** (AAAI2021, TIP2023). Propose an imputation-free deep framework for effectively handling incomplete multi-view data, and establish the connection between domain adaptation and multi-view by incorporating distribution discrepancy.
 4. **Algorithm robustness towards noisy views** (TKDE2022, CVPR2024). First to theoretically investigate consistency / complementarity / noise robustness for multi-view learning, and suggest to consider the side effects of noisy views for algorithm designs in practical scenarios.
+5. 
 Fortunately, my research has gained the attention of scholars in the same field and has been successfully applied by other scholars in practical application fields, such as medical data analysis, internet data analysis, etc. I summarized some application-related [papers](https://github.com/SubmissionsIn/MVC4Applications) hoping to promote academic research and applied research for the reference of future work.
 
 # 🤗 News
