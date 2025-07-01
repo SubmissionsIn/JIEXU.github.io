@@ -19,13 +19,18 @@ redirect_from:
 
 Hi~ I am a second-year PhD student at the Department of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), advised by [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=zh-CN), and currently a visiting PhD student at SUTD, advised by [Lei Feng](https://scholar.google.com/citations?user=KomQOFkAAAAJ&hl=zh-CN&oi=ao). I worked as a research intern at Microsoft Research Asia (MSRA).
 
-I am currently working on trustworthy graph learning, with a focus on calibration. In the future, I plan to explore trustworthy outputs of LLMs and MLLMs. If you're interested, feel free to contact me via email.
+I am currently a postdoctoral research fellow in the Intelligent Machine Perception Lab leaded by Prof.~\href{https://impl2023.github.io/}{\underline{Na Zhao}} in the Singapore University of Technology and Design (SUTD).
+I received my Ph.D. degree from the University of Electronic Science and Technology of China (UESTC) in Dec 2024, supervised by Prof.~[Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=en).
+Since 2023 to 2024, I have been working closely with the RIKEN Center for Advanced Intelligence Project (RIKEN-AIP)  mentored by Prof.~[Masashi Sugiyama](https://scholar.google.com/citations?user=GkYIrlIAAAAJ&hl=en) and [Gang Niu](https://niug1984.github.io/).
+Before that, I received my B.Eng. degree from the UESTC in Jul 2020, supervised by Prof.~[Yazhou Ren](https://yazhou-ren.github.io/).
+
+I am currently working on multi-view machine learning and multi-view computer vision. If you are interested in these topics, please feel free to contact me via email and I am seeking extensive cooperation opportunities.
 
 # 🤗 News
 
-- *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by ICML 2025！
-- *2024.12*: &nbsp; Invited to serve as an Area Chair for IJCNN'25.
-- *2024.11*：&nbsp;🎉🎉🎉 Honored to receive the Tencent Scholarship！
+- *2025.06*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2025！
+- *2025.04*：&nbsp;🎉🎉 One paper is accepted by IJCAI 2025!
+- *2024.12*：&nbsp; I have obtained my doctoral degree from UESTC and will be conducting postdoctoral research at SUTD.
 
 
 # 📖 Publications
