@@ -77,8 +77,8 @@ I am currently working on multi-view machine learning and multi-view 3D computer
 
 # ✨ Talks
 
-- *2024.11.28*, Research on Deep Multi-View Clustering Method for Realistic Complex Data Application Scenarios, invited by Prof. Xiao-Ning Li at [Sichuan Normal University](https://cs.sicnu.edu.cn/p/10/?StId=st_app_news_i_x638682151847779646).
-- *2024.05.02*, Deep Multi-View Learning towards Noisy Data, invited by Prof. [Zeyu Zhang](https://alex-zeyu.github.io/) at [Huazhong Agricultural University](https://coi.hzau.edu.cn/info/1023/12216.htm?_refluxos=a10).
+- *2024.11.28*, Research on Deep Multi-View Clustering Method for Realistic Complex Data Application Scenarios, invited by Prof. Xiao-Ning Li at Sichuan Normal University.
+- *2024.05.02*, Deep Multi-View Learning towards Noisy Data, invited by Prof. [Zeyu Zhang](https://alex-zeyu.github.io/) at Huazhong Agricultural University.
 
 # 🏫 Educations
 
