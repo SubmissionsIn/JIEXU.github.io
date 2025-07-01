@@ -19,6 +19,8 @@ redirect_from:
 
 Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Perception Lab leaded by Prof. [Na Zhao](https://impl2023.github.io/) in the Singapore University of Technology and Design (SUTD). I received my Ph.D. degree from the University of Electronic Science and Technology of China (UESTC) in Dec 2024, supervised by Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=en). Since 2023, I have been working closely with the RIKEN Center for Advanced Intelligence Project (RIKEN-AIP)  mentored by Prof. [Gang Niu](https://niug1984.github.io/) and Prof. [Masashi Sugiyama](https://scholar.google.com/citations?user=GkYIrlIAAAAJ&hl=en). Before that, I received my B.Eng. degree from the UESTC in Jul 2020, supervised by Prof. [Yazhou Ren](https://yazhou-ren.github.io/). I am grateful to all the teachers who have helped me.
 
+**Close collaborator**: Prof. [Na Zhao](https://impl2023.github.io/), [Liang Peng](https://scholar.google.com/citations?user=GuKZfakAAAAJ&hl=en), [Yujie Mo](https://yujiemo.github.io/), [Jincheng Huang](https://huangjc0429.github.io/JinchengHuang.github.io/), [Jianpeng Chen](https://cjpcool.github.io/).
+
 <span style="color: red;">
 I am currently working on multi-view machine learning and multi-view 3D computer vision. I am seeking extensive cooperation opportunities with self-motivated students and if you are interested in our research topics or just want to have a chat, please feel free to contact me via email.
 </span>
@@ -42,6 +44,10 @@ Fortunately, my research has gained the attention of scholars in the same field 
 - *2024.12*, I have obtained my doctoral degree from UESTC.
 
 # 📖 Publications
+
+**Under-Review Papers:**
+1. Shangbo Yuan, **Jie Xu**, Na Zhao, Ping Hu, Xiaofeng Zhu. Geometric-Aware Feature Aggregation with Graph Smoothing for Point Cloud Analysis.
+1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework.
 
 **Published Papers (\*corresponding author; $^\ddagger$equal contribution):**
 
@@ -71,10 +77,6 @@ Fortunately, my research has gained the attention of scholars in the same field 
 1. Liang Peng, Nan Wang, **Jie Xu**, Xiaofeng Zhu, Xiaoxiao Li. GATE: Graph CCA for Temporal SElf-supervised Learning for Label-efficient fMRI Analysis. IEEE Transactions on Medical Imaging (TMI, IF=11.0), 2022.
 1. Yujie Mo, Liang Peng, **Jie Xu**, Xiaoshuang Shi, Xiaofeng Zhu. Simple Unsupervised Graph Representation Learning. AAAI Conference on Artificial Intelligence (AAAI), **Oral presentation paper**, 2022.
 1. Lujing Wang, Weifeng Yuan, Lu Zeng, **Jie Xu**, Yujie Mo, Xinxiang Zhao, Liang Peng. Dementia Analysis from Functional Connectivity Network with Graph Neural Networks. Information Processing and Management (IPM, IF=8.6), 2022.
-
-**Under-Review Papers:**
-1. Shangbo Yuan, **Jie Xu**, Na Zhao, Ping Hu, Xiaofeng Zhu. Geometric-Aware Feature Aggregation with Graph Smoothing for Point Cloud Analysis.
-1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework.
 
 # 🏆 Honors and Awards
 
