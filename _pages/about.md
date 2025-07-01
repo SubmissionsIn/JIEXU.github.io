@@ -17,83 +17,68 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral research fellow in the Intelligent Machine Perception Lab leaded by Prof. [Na Zhao](https://impl2023.github.io/) in the Singapore University of Technology and Design (SUTD).
-I received my Ph.D. degree from the University of Electronic Science and Technology of China (UESTC) in Dec 2024, supervised by Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=en).
-Since 2023 to 2024, I have been working closely with the RIKEN Center for Advanced Intelligence Project (RIKEN-AIP)  mentored by Prof. [Masashi Sugiyama](https://scholar.google.com/citations?user=GkYIrlIAAAAJ&hl=en) and [Gang Niu](https://niug1984.github.io/).
-Before that, I received my B.Eng. degree from the UESTC in Jul 2020, supervised by Prof. [Yazhou Ren](https://yazhou-ren.github.io/).
+Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Perception Lab leaded by Prof. [Na Zhao](https://impl2023.github.io/) in the Singapore University of Technology and Design (SUTD). I received my Ph.D. degree from the University of Electronic Science and Technology of China (UESTC) in Dec 2024, supervised by Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=en). Since 2023, I have been working closely with the RIKEN Center for Advanced Intelligence Project (RIKEN-AIP)  mentored by Prof. [Gang Niu](https://niug1984.github.io/) and [Masashi Sugiyama](https://scholar.google.com/citations?user=GkYIrlIAAAAJ&hl=en). Before that, I received my B.Eng. degree from the UESTC in Jul 2020, supervised by Prof. [Yazhou Ren](https://yazhou-ren.github.io/).
 
-I am currently working on multi-view machine learning and multi-view computer vision. If you are interested in these topics, please feel free to contact me via email and I am seeking extensive cooperation opportunities.
+I am currently working on multi-view machine learning and multi-view 3D computer vision. I am seeking extensive cooperation opportunities with self-motivated students and if you are interested in these topics, please feel free to contact me via email. 
 
 # 🤗 News
 
-- *2025.06*: &nbsp;Two papers are accepted by ICCV 2025！🎉🎉
-- *2025.04*：&nbsp;One paper is accepted by IJCAI 2025!🎉🎉
-- *2024.12*：&nbsp;I have obtained my doctoral degree from UESTC.
+- *2025.06*: &nbsp; Two papers are accepted by ICCV 2025！🎉🎉
+- *2025.04*：&nbsp; One paper is accepted by IJCAI 2025!🎉🎉
+- *2024.12*：&nbsp; I have obtained my doctoral degree from UESTC.
 
 
-# 📖 Publications
+# 📖 PUBLICATIONS
 
-\* indicates equal contribution
+\textbf{Published Papers ($^*$corresponding author; $^\ddagger$co-first author):}
 
-The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework. **Under Review** [[Paper]](https://arxiv.org/pdf/2505.11335) [[Code]]()
+1. \textbf{Jie Xu}, Na Zhao, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu. Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation. IEEE/CVF International Conference on Computer Vision ({ICCV}), accepted, 2025.
+1. Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, \textbf{Jie Xu$^*$}, Yong Liao$^*$. A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns. IEEE/CVF International Conference on Computer Vision ({ICCV}), accepted, 2025.
+  \item Hongqing He, \textbf{Jie Xu$^*$}, Guoqiu Wen$^*$, Yazhou Ren, Na Zhao, Xiaofeng Zhu. Graph Embedded Contrastive Learning for Multi-View Clustering. International Joint Conference on Artificial Intelligence ({IJCAI}), accepted, 2025.
+1. Caixuan Luo, \textbf{Jie Xu$^*$}, Yazhou Ren, Junbo Ma, Xiaofeng Zhu. Simple Contrastive Multi-View Clustering with Data-Level Fusion. International Joint Conference on Artificial Intelligence ({IJCAI}), pages 4697-4705, 2024.
+1. \textbf{Jie Xu}, Yazhou Ren, Xiaolong Wang, Lei Feng, Zheng Zhang, Gang Niu, Xiaofeng Zhu. Investigating and Mitigating the Side Effects of Noisy Views in Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios. IEEE/CVF Conference on Computer Vision and Pattern Recognition ({CVPR}), pages 22957-22966, 2024.
+1. \textbf{Jie Xu}, Shuo Chen, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Gang Niu, Xiaofeng Zhu. Self-Weighted Contrastive Learning among Multiple Views for Mitigating Representation Degeneration. Annual Conference on Neural Information Processing Systems ({NeurIPS}), pages 1119-1131, 2023.
+1. \textbf{Jie Xu}, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu. UNTIE: Clustering Analysis with Disentanglement in Multi-view Information Fusion. Information Fusion ({Inf.Fus., IF=18.6}), pages 101937, 2023.
+1. \textbf{Jie Xu}, Chao Li, Liang Peng, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu. Adaptive Feature Projection with Distribution Alignment for Deep Incomplete Multi-view Clustering. IEEE Transactions on Image Processing ({TIP, IF=10.6}), \textbf{ESI highly cited paper}, pages 1354-1366, 2023.
+1. \textbf{Jie Xu}, Yazhou Ren, Huayi Tang, Zhimeng Yang, Lili Pan, Yang Yang, Xiaorong Pu, Philip S. Yu, Lifang He. Self-Supervised Discriminative Feature Learning for Deep Multi-View Clustering. IEEE Transactions on Knowledge and Data Engineering ({TKDE, IF=8.9}), \textbf{ESI highly cited paper}, pages 7470-7482, 2023.
+1. \textbf{Jie Xu}$^\ddagger$, Huayi Tang$^\ddagger$, Yazhou Ren, Liang Peng, Xiaofeng Zhu, Lifang He. Multi-Level Feature Learning for Contrastive Multi-View Clustering. IEEE/CVF Conference on Computer Vision and Pattern Recognition ({CVPR}), \textbf{Oral presentation paper}, pages 16051-16060, 2022.
+1. \textbf{Jie Xu}, Chao Li, Yazhou Ren, Liang Peng, Yujie Mo, Xiaoshuang Shi, Xiaofeng Zhu. Deep Incomplete Multi-view Clustering via Mining Cluster Complementarity. AAAI Conference on Artificial Intelligence ({AAAI}), pages 8761-8769, 2022.
+1. \textbf{Jie Xu}, Yazhou Ren, Huayi Tang, Xiaorong Pu, Xiaofeng Zhu, Ming Zeng, Lifang He. Multi-VAE: Learning Disentangled View-common and View-peculiar Visual Representations for Multi-view Clustering. IEEE/CVF International Conference on Computer Vision ({ICCV}), pages 9234-9243, 2021.
+1. \textbf{Jie Xu}, Yazhou Ren, Guofeng Li, Lili Pan, Ce Zhu, Zenglin Xu. Deep Embedded Multi-View Clustering with Collaborative Training. Information Sciences ({Inf.Sci., IF=8.1}), pages 279-290, 2021.
+1. Yuanyang Zhang, Yijie Lin, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, \textbf{Jie Xu}. Incomplete Multi-view Clustering via Diffusion Contrastive Generation. AAAI Conference on Artificial Intelligence ({AAAI}), pages 22650-22658, 2024.
+1. Fangfei Lin, \textbf{Jie Xu}, Yazhou Ren, Junjie Chen, Irwin King, Zenglin Xu. Multi-modal Hierarchical Clustering for Cancer Subtype Identification using Multi-omics Data. International Joint Conference on Neural Networks ({IJCNN}), accepted, 2025.
+1. Jianpeng Chen, Yawen Ling, \textbf{Jie Xu}, Yazhou Ren, Shudong Huang, Xiaorong Pu, Lifang He. Variational Graph Generator for Multi-View Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems ({TNNLS, IF=10.2}), accepted, 2024.
+1. Xinyue Chen, Yazhou Ren, \textbf{Jie Xu}, Fangfei Lin, Xiaorong Pu, Lifang He. Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views. Annual Conference on Neural Information Processing Systems ({NeurIPS}), pages 37020-37049, 2024.
+1. Yazhou Ren, Jingyu Pu, Zhimeng Yang, \textbf{Jie Xu}, Guofeng Li, Xiaorong Pu, Philip S Yu, Lifang He. Deep Clustering: A Comprehensive Survey. IEEE Transactions on Neural Networks and Learning Systems ({TNNLS, IF=10.4}), accepted, 2024.
+1. Yazhou Ren, Xinyue Chen, \textbf{Jie Xu}, Jingyu Pu, Yonghao Huang, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. A Novel Federated Multi-View Clustering Method for Unaligned and Incomplete Data Fusion. Information Fusion ({Inf.Fus., IF=14.7}), pages 102357, 2024.
+1. Liang Peng, Yujie Mo, \textbf{Jie Xu}, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu. GRLC: Graph Representation Learning with Constraints. IEEE Transactions on Neural Networks and Learning Systems ({TNNLS, IF=14.2}), pages 8609-8622, 2024.
+1. Xinyue Chen, \textbf{Jie Xu}, Yazhou Ren, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. Federated Deep Multi-View Clustering with Global Self-Supervision. ACM International Conference on Multimedia ({ACM MM}), pages 3498-3506, 2023.
+1. Yawen Ling, Jianpeng Chen, Yazhou Ren, Xiaorong Pu, \textbf{Jie Xu}, Xiaofeng Zhu, Lifang He. Dual Label-Guided Graph Refinement for Multi-View Graph Clustering. AAAI Conference on Artificial Intelligence ({AAAI}), pages 8791-8798, 2023.
+1. Zhimeng Yang, Yazhou Ren, Zirui Wu, Ming Zeng, \textbf{Jie Xu}, Yang Yang, Xiaorong Pu, Philip S. Yu, Lifang He. DC-FUDA: Improving Deep Clustering via Fully Unsupervised Domain Adaptation. Neurocomputing ({NEUCOM, IF=6.0}), pages 109-120, 2023.
+1. Liang Peng, Nan Wang, \textbf{Jie Xu}, Xiaofeng Zhu, Xiaoxiao Li. GATE: Graph CCA for Temporal SElf-supervised Learning for Label-efficient fMRI Analysis. IEEE Transactions on Medical Imaging ({TMI, IF=11.0}), pages 391-402, 2022.
+1. Yujie Mo, Liang Peng, \textbf{Jie Xu}, Xiaoshuang Shi, Xiaofeng Zhu. Simple Unsupervised Graph Representation Learning. AAAI Conference on Artificial Intelligence ({AAAI}), \textbf{Oral presentation paper}, pages 7797-7805, 2022.
+1. Lujing Wang, Weifeng Yuan, Lu Zeng, \textbf{Jie Xu}, Yujie Mo, Xinxiang Zhao, Liang Peng. Dementia Analysis from Functional Connectivity Network with Graph Neural Networks. Information Processing and Management ({IP\&M, IF=8.6}), pages 102901, 2022.
 
-**Jincheng Huang**, Jie Xu, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu
-
-Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks. **ICML 2025.** [[Paper]](https://arxiv.org/pdf/2411.02279) [[Code]](https://github.com/huangJC0429/label-utilize-GCN)
-
-**Jincheng Huang**, Yujie Mo, Xiaoshuang Shi, Lei Feng, Xiaofeng Zhu
-
-Adaptive node-level weighted learning for directed graph neural networks. **Neural Networks 2025.** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002722) [[Code]]()
-
-**Jincheng Huang**, Xiaofeng Zhu
-
-On Which Nodes Does GCN Fail? Enhancing GCN From the Node Perspective. **ICML 2024.** [[Paper]](https://openreview.net/pdf?id=dcwUGaK9sQ) [[Code]](https://github.com/huangJC0429/DaGCN)
-
-**Jincheng Huang**, Jialie Shen, Xiaoshuang Shi, Xiaofeng Zhu
-
-Exploring the Role of Node Diversity in Directed Graph Representation Learning. **IJCAI 2024.** [[Paper]](https://www.ijcai.org/proceedings/2024/0229.pdf) [[Code]](https://github.com/huangJC0429/NDDGNN)
-
-**Jincheng Huang**, Yujie Mo, Ping Hu, Xiaoshuang Shi, Shangbo Yuan, Zeyu Zhang, Xiaofeng Zhu
-
-Robust Mid-Pass Filtering Graph Convolutional Networks. **TheWebConf(WWW) 2023.** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583335) [[Code]](https://github.com/huangJC0429/Mid-GCN)
-
-**Jincheng Huang**, Lun Du, Xu Chen, Qiang Fu, Shi Han, Dongmei Zhang
-
-Revisiting the role of heterophily in graph representation learning: An edge classification perspective. **ACM TKDD 2023.** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3603378) [[Code]]()
-
-**Jincheng Huang**, Ping Li, Rui Huang, Na Chen, Acong Zhang
-
-Semantic consistency for graph representation learning. **IJCNN 2022.** [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3603378](https://ieeexplore.ieee.org/abstract/document/9892167/)) [[Code]]()
-
-**Jincheng Huang**, Ping Li, Kai Zhang
-
-Building Shortcuts between Distant Nodes with Biaffine Mapping for Graph Convolutional Networks. **ACM TKDD 2023.** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3650113) [[Code]]()
-
-Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
-
-
+\textbf{Under-Review Papers:}
+1. Shangbo Yuan, \textbf{Jie Xu}, Na Zhao, Ping Hu, Xiaofeng Zhu. Geometric-Aware Feature Aggregation with Graph Smoothing for Point Cloud Analysis.
+1. Jincheng Huang, \textbf{Jie Xu}, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework.
 
 # 🏆 Honors and Awards
 
-- *2022.04* National Scholarship.
-- *2023.01* Outstanding Graduate Student.
-- *2023.05* Outstanding Master's Thesis.
-- *2024.07* China Scholarship Council.
-- *2024.09* First-class Scholarship.
-- *2024.11* Tencent Scholarship.
-
-# ✨ Internship
-
-- Microsoft Research Asia (MSRA) 2022.5~2022.12, supervised by [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=zh-CN). Focus on Adversarial Robustness of Graph Neural Networks.
+- UESTC Outstanding Doctor Graduate Thesis Award \hfill 2025
+- UESTC Outstanding Doctor Graduate Students \hfill 2024
+- National Scholarship \hfill 2019, 2022
+- UESTC Academic Newcomer Award \hfill 2022
+- UESTC Outstanding Bachelor Graduate Thesis Award \hfill 2020
+- UESTC Outstanding Bachelor Graduate Students \hfill 2020
+- UESTC Annual Scholarship for Outstanding Students \hfill 2017, 2018, 2019, 2021, 2022, 2023, 2024
 
 # 🏫 Educations
 
-- *2023.09 - (now)*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
-- *2020.09 - 2023.06*, Southwest Petroleum University, Chengdu, China, Master of Computer Technology, Master of Computer Science and Technology. 
-- *2016.09 - 2020.06*, Suzhou University of Technology, Suzhou, China, Bachelor of Computer Science and Technology (Internet of Things Engineering). 
+- *2020.09 - 2024.12*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. of Computer Science and Technology.
+- *2016.09 - 2020.06*, University of Electronic Science and Technology of China, Chengdu, China, Bachelor of Computer Science and Technology.
 
 # 💬 Services
 
-- Area Chair: IJCNN 2025.
-- Program Committee Member for ICML 2024-2025, ICLR 2024-2025, NeurIPS 2024 2025, AAAI 2024-2025, ACM MM 2025, AISTATS2025 etc. 
-- Reviewer for TNNLS, TKDE, TIP, IPM, NeuralComputing, etc.
+- Program Committee Member of Conferences: CVPR 2022-2025, ICCV 2023-2025, ECCV 2022-2024, NeurIPS 2024-2025, ICML 2024-2025, ICLR 2025, AISTATS 2025, IJCAI 2025, AAAI 2024-2025, ACM MM 2023-2025, KDD 2022-2023, CIKM 2022-2025, SDM 2024 etc. 
+- Journal Reviewer for TPAMI, TIP, TKDE, TCYB, TNNLS, TCSVT, TCSS, TKDD, PR, Inf.Fus., IPM, Inf.Sci., NN, NEUCOM, ESWA etc.
