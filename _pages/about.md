@@ -25,9 +25,9 @@ I am currently working on multi-view machine learning and multi-view 3D computer
 
 # 🤗 News
 
-- *2025.06*: &nbsp; Two papers are accepted by ICCV 2025！🎉🎉
-- *2025.04*：&nbsp; One paper is accepted by IJCAI 2025!🎉🎉
-- *2024.12*：&nbsp; I have obtained my doctoral degree from UESTC.
+- *2025.06*, Two papers are accepted by ICCV 2025.
+- *2025.04*, One paper is accepted by IJCAI 2025.
+- *2024.12*, I have obtained my doctoral degree from UESTC.
 
 
 # 📖 PUBLICATIONS
