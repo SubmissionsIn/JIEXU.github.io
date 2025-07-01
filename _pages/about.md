@@ -32,7 +32,7 @@ I am currently working on multi-view machine learning and multi-view 3D computer
 
 # 📖 Publications
 
-**Published Papers (\*corresponding author; \ddagger co-first author):**
+**Published Papers (\*corresponding author; \# co-first author):**
 
 1. **Jie Xu**, Na Zhao, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu. Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
 1. Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, **Jie Xu**\*, Yong Liao\*. A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
@@ -43,7 +43,7 @@ I am currently working on multi-view machine learning and multi-view 3D computer
 1. **Jie Xu**, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu. UNTIE: Clustering Analysis with Disentanglement in Multi-view Information Fusion. Information Fusion (Inf.Fus., IF=18.6), 2023.
 1. **Jie Xu**, Chao Li, Liang Peng, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu. Adaptive Feature Projection with Distribution Alignment for Deep Incomplete Multi-view Clustering. IEEE Transactions on Image Processing (TIP, IF=10.6), **ESI highly cited paper**, 2023.
 1. **Jie Xu**, Yazhou Ren, Huayi Tang, Zhimeng Yang, Lili Pan, Yang Yang, Xiaorong Pu, Philip S. Yu, Lifang He. Self-Supervised Discriminative Feature Learning for Deep Multi-View Clustering. IEEE Transactions on Knowledge and Data Engineering (TKDE, IF=8.9), **ESI highly cited paper**, 2023.
-1. **Jie Xu**\ddagger, Huayi Tang\ddagger, Yazhou Ren, Liang Peng, Xiaofeng Zhu, Lifang He. Multi-Level Feature Learning for Contrastive Multi-View Clustering. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), **Oral presentation paper**, 2022.
+1. **Jie Xu**$^\ddagger, Huayi Tang\ddagger, Yazhou Ren, Liang Peng, Xiaofeng Zhu, Lifang He. Multi-Level Feature Learning for Contrastive Multi-View Clustering. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), **Oral presentation paper**, 2022.
 1. **Jie Xu**, Chao Li, Yazhou Ren, Liang Peng, Yujie Mo, Xiaoshuang Shi, Xiaofeng Zhu. Deep Incomplete Multi-view Clustering via Mining Cluster Complementarity. AAAI Conference on Artificial Intelligence (AAAI), 2022.
 1. **Jie Xu**, Yazhou Ren, Huayi Tang, Xiaorong Pu, Xiaofeng Zhu, Ming Zeng, Lifang He. Multi-VAE: Learning Disentangled View-common and View-peculiar Visual Representations for Multi-view Clustering. IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
 1. **Jie Xu**, Yazhou Ren, Guofeng Li, Lili Pan, Ce Zhu, Zenglin Xu. Deep Embedded Multi-View Clustering with Collaborative Training. Information Sciences (Inf.Sci., IF=8.1), 2021.
