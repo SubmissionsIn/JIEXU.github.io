@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Perception Lab leaded by Prof. [Na Zhao](https://impl2023.github.io/) in the Singapore University of Technology and Design (SUTD). I received my Ph.D. degree from the University of Electronic Science and Technology of China (UESTC) in Dec 2024, supervised by Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=en). Since 2023, I have been working closely with the RIKEN Center for Advanced Intelligence Project (RIKEN-AIP)  mentored by Prof. [Gang Niu](https://niug1984.github.io/) and Prof. [Masashi Sugiyama](https://scholar.google.com/citations?user=GkYIrlIAAAAJ&hl=en). Before that, I received my B.Eng. degree from the UESTC in Jul 2020, supervised by Prof. [Yazhou Ren](https://yazhou-ren.github.io/).
+Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Perception Lab leaded by Prof. [Na Zhao](https://impl2023.github.io/) in the Singapore University of Technology and Design (SUTD). I received my Ph.D. degree from the University of Electronic Science and Technology of China (UESTC) in Dec 2024, supervised by Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=en). Since 2023, I have been working closely with the RIKEN Center for Advanced Intelligence Project (RIKEN-AIP)  mentored by Prof. [Gang Niu](https://niug1984.github.io/) and Prof. [Masashi Sugiyama](https://scholar.google.com/citations?user=GkYIrlIAAAAJ&hl=en). Before that, I received my B.Eng. degree from the UESTC in Jul 2020, supervised by Prof. [Yazhou Ren](https://yazhou-ren.github.io/). I am grateful to all the teachers who have helped me.
 
 <span style="color: red;">
-I am currently working on multi-view machine learning and multi-view 3D computer vision. I am seeking extensive cooperation opportunities with self-motivated students and if you are interested in these topics, please feel free to contact me via email.
+I am currently working on multi-view machine learning and multi-view 3D computer vision. I am seeking extensive cooperation opportunities with self-motivated students and if you are interested in our research topics, please feel free to contact me via email.
 </span>
 
 # 🤗 News
@@ -29,10 +29,9 @@ I am currently working on multi-view machine learning and multi-view 3D computer
 - *2025.04*, One paper is accepted by IJCAI 2025.
 - *2024.12*, I have obtained my doctoral degree from UESTC.
 
-
 # 📖 Publications
 
-**Published Papers (\*corresponding author; $^\ddagger$co-first author):**
+**Published Papers (\*corresponding author; $^\ddagger$equal contribution):**
 
 1. **Jie Xu**, Na Zhao, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu. Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
 1. Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, **Jie Xu**\*, Yong Liao\*. A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
@@ -87,5 +86,5 @@ I am currently working on multi-view machine learning and multi-view 3D computer
 
 # 💬 Services
 
-- Program Committee Member of Conferences for CVPR 2022-2025, ICCV 2023-2025, ECCV 2022-2024, NeurIPS 2024-2025, ICML 2024-2025, ICLR 2025, AISTATS 2025, IJCAI 2025, AAAI 2024-2025, ACM MM 2023-2025, KDD 2022-2023, CIKM 2022-2025, SDM 2024 etc. 
-- Journal Reviewer for TPAMI, TIP, TKDE, TCYB, TNNLS, TCSVT, TCSS, TKDD, PR, Inf.Fus., IPM, Inf.Sci., NN, NEUCOM, ESWA etc.
+- Program Committee Member of Conferences for CVPR 2022-2025, ICCV 2023-2025, ECCV 2022-2024, NeurIPS 2024-2025, ICML 2024-2025, ICLR 2025, AISTATS 2025, IJCAI 2025, AAAI 2024-2025, ACM MM 2023-2025, KDD 2022-2023, CIKM 2022-2025, SDM 2024 etc.
+- Journal Reviewer for TPAMI, TIP, TKDE, TCYB, TNNLS, TCSVT, TCSS, TKDD, Pattern Recognition, Information Fusion, Information Sciences, IPM, ESWA, Neural Networks, Neurocomputing etc.
