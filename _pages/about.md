@@ -28,8 +28,8 @@ I am excited about the ongoing developments in the field of artificial intellige
 2. General and robust self-supervised learning methods across multi-view/modal/graph/omics.
 
 Before that, the research during my Ph.D. was machine learning and self-supervised learning on irregular multi-view/modal/graph/omics data. These areas can be unified into multi-view machine learning, and I am focusing on providing novel insights to the community, such as:
-1. **Model robustness** (TKDE2022, CVPR2024). First to theoretically investigate consistency/complementarity/noise robustness for multi-view learning, and suggest to consider the side effects of noisy views for algorithm designs in practical scenarios.
-2. **Model interpretability** (ICCV2021, Inf.Fus.2023). First try to disentangle view-common and view-private information with generative models, which can produce human-understandable multi-view representations to increase the model interpretability.
+1. **Model robustness** (TKDE2022, CVPR2024). First try to theoretically investigate consistency/complementarity/noise robustness for multi-view learning, and suggest to consider the side effects of noisy views for algorithm designs in practical scenarios.
+2. **Model interpretability** (ICCV2021, Inf.Fus.2023). First to disentangle view-common and view-private information with deep generative models, which can produce human-understandable multi-view representations to increase the model interpretability.
 3. **Data heterogeneity** (CVPR2022, NeurIPS2023). Propose a multi-level framework to promote contrastive learning in multi-view learning, and a general theory-driven self-weighting contrastive learning method that is adaptive to heterogeneous data.
 4. **Data incompleteness** (AAAI2021, TIP2023). Propose the first imputation-free deep framework for handling incomplete multi-view data, and establish the connection between domain adaptation and multi-view by incorporating distribution discrepancy.
 
