@@ -30,7 +30,7 @@ I am currently working on multi-view machine learning and multi-view 3D computer
 - *2024.12*, I have obtained my doctoral degree from UESTC.
 
 
-# 📖 PUBLICATIONS
+# 📖 Publications
 
 **Published Papers ($^*$corresponding author; $^\ddagger$co-first author):**
 
