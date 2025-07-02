@@ -83,6 +83,7 @@ Fortunately, my research has gained the attention of scholars in the same field 
 - UESTC Outstanding Doctor Graduate Thesis Award 2025
 - UESTC Outstanding Doctor Graduate Students 2024
 - National Scholarship 2019, 2022
+- AAAI Student Scholarship 2022
 - UESTC Academic Newcomer Award 2022
 - UESTC Outstanding Bachelor Graduate Thesis Award 2020
 - UESTC Outstanding Bachelor Graduate Students 2020
