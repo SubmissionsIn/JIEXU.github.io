@@ -22,7 +22,7 @@ Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Per
 **My close collaborators**: [Xiaorui Jiang](https://xiaorui-jiang.github.io/), [Liang Peng](https://scholar.google.com/citations?user=GuKZfakAAAAJ&hl=en), [Mengmeng Zhan](), [Lu Zeng](), [Yujie Mo](https://yujiemo.github.io/), [Jincheng Huang](https://huangjc0429.github.io/JinchengHuang.github.io/), [Zongqian Wu](https://zongqianwu.github.io/), [Yonghua Zhu](https://scholar.google.com/citations?user=CVP8vGEAAAAJ&hl=en&oi=ao), [Rongyao Hu](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21524?yxsh=09), [Jiangzhang Gan](https://scholar.google.com/citations?user=FMVDBN0AAAAJ&hl=en&oi=ao), [Fangfei Lin](https://scholar.google.com/citations?hl=en&user=7EZJ4ZIAAAAJ), [Jianpeng Chen](https://cjpcool.github.io/), [Xinyue Chen](https://scholar.google.com/citations?hl=en&user=RBjE4q0AAAAJ), [Huayi Tang]().
 
 <span style="color: red;">
-I am currently working on multi-view machine learning and multi-view 3D computer vision. I am seeking extensive cooperation opportunities with self-motivated students and if you are interested in our research topics or just want to have a chat, please feel free to contact me via email.
+I am currently working on multi-view 3D computer vision and multi-view machine learning. I am seeking extensive cooperation opportunities with self-motivated students and if you are interested in our research topics or just want to have a chat, please feel free to contact me via email.
 </span>
 
 I am excited about the ongoing developments in the field of artificial intelligence represented by machine learning and deep learning. The research topics that I am currently working on include:
