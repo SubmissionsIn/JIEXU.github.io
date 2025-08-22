@@ -105,5 +105,5 @@ Fortunately, my research has gained the attention of scholars in the same field 
 # 💬 Services
 
 - Conference Area Chair: ICLR 2026 etc.
-- Conference Reviewer: CVPR 2022-2025, ICCV 2023-2025, ECCV 2022-2024, NeurIPS 2024-2025, ICML 2024-2025, ICLR 2025, AISTATS 2025, IJCAI 2025, AAAI 2024-2026, ACM MM 2023-2025, KDD 2022-2023, CIKM 2022-2025, SDM 2024 etc.
+- Conference Reviewer: CVPR 2022-2025, ICCV 2023-2025, ECCV 2022-2024, NeurIPS 2024-2025, ICML 2024-2025, ICLR 2025, AISTATS 2025-2026, IJCAI 2025, AAAI 2024-2026, ACM MM 2023-2025, KDD 2022-2023, CIKM 2022-2025, SDM 2024 etc.
 - Journal Reviewer: TPAMI, TIP, TKDE, TCYB, TNNLS, TCSVT, TCSS, TKDD, Pattern Recognition, Information Fusion, Information Sciences, IPM, ESWA, Neural Networks, Neurocomputing etc.
