@@ -25,6 +25,15 @@ Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Per
 I am currently working on multi-view 3D computer vision and multi-view machine learning. I am seeking extensive cooperation opportunities with self-motivated students and if you are interested in our research topics or just want to have a chat, please feel free to contact me via email.
 </span>
 
+# 🤗 News
+
+- *2025.08*, I will serve as an Area Chair for ICLR 2026.
+- *2025.06*, Two papers are accepted by ICCV 2025.
+- *2025.04*, One paper is accepted by IJCAI 2025.
+- *2024.12*, I have obtained my doctoral degree from UESTC.
+
+# 📖 Publications
+
 I am excited about the ongoing developments in the field of artificial intelligence represented by machine learning and deep learning. The research topics that I am currently working on include:
 1. 3D scene understanding with semi-/weakly supervised learning for real-world applications.
 2. General and robust self-supervised learning methods across multi-view/modal/graph/omics.
@@ -35,20 +44,13 @@ Before that, the research during my Ph.D. was machine learning and self-supervis
 3. **Data heterogeneity** (CVPR2022, NeurIPS2023). Propose the multi-level fusion-free idea to promote contrastive learning in multi-view domains, and a general theory-driven self-weighting contrastive learning framework for adapting heterogeneous data.
 4. **Data incompleteness** (AAAI2021, TIP2023). Propose the first imputation-free deep framework for handling incomplete multi-view data, and establish the connection between domain adaptation and multi-view by incorporating distribution discrepancy.
 
-Fortunately, my research has gained the attention of scholars in the same field and has been successfully applied by others in practical application fields, such as medical data analysis, internet data analysis, etc. However, the practical multi-view application scenarios still face many challenges that need to be further studied. I summarized some application-related [papers](https://github.com/SubmissionsIn/MVC4Applications) hoping to promote academic research and application as well as for the reference of future work.
-
-# 🤗 News
-
-- *2025.08*, I will serve as an Area Chair for ICLR 2026.
-- *2025.06*, Two papers are accepted by ICCV 2025.
-- *2025.04*, One paper is accepted by IJCAI 2025.
-- *2024.12*, I have obtained my doctoral degree from UESTC.
-
-# 📖 Publications
+Fortunately, my research has gained the attention of scholars in the same field and has been successfully applied by others in practical application fields, such as medical data analysis, internet data analysis, etc. However, the practical multi-view application scenarios still face many challenges that need to be further studied. I summarized some application-related [papers](https://github.com/SubmissionsIn/MVC4Applications) hoping to promote academic research and application as well as for the reference of future work. The following is my relevant work:
 
 **Under-Review Papers:**
-1. Shangbo Yuan, **Jie Xu**, Na Zhao, Ping Hu, Xiaofeng Zhu. Geometric-Aware Feature Aggregation with Graph Smoothing for Point Cloud Analysis.
-1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework.
+1. Shangbo Yuan, **Jie Xu**, Na Zhao, Ping Hu, Xiaofeng Zhu. Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis.
+2. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework.
+3. Yuanyang Zhang, Yijie Lin, Xinhang Wan, Chao Zhang, **Jie Xu**, Cunjian Chen, Tien-Tsin Wong, Li Yao. Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling.
+4. Shuaiyu Liu, Song Wu, **Jie Xu**, Yazhou Ren, Yang Yang, Xiaorong Pu, Guoying Wang. Views Attention Fusion of Granular-ball Fuzzy Representations Split for Improved Multi-view Clustering.
 
 **Published Papers (\*corresponding author; $^\ddagger$equal contribution):**
 
