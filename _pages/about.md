@@ -27,6 +27,7 @@ I am currently working on multi-view 3D computer vision and multi-view machine l
 
 # 🤗 News
 
+- *2025.11*, Three papers are accepted by AAAI 2026.
 - *2025.08*, I will serve as an Area Chair for ICLR 2026.
 - *2025.06*, Two papers are accepted by ICCV 2025.
 - *2025.04*, One paper is accepted by IJCAI 2025.
@@ -46,18 +47,20 @@ Before that, the research during my Ph.D. was machine learning and self-supervis
 
 Fortunately, my research has gained the attention of scholars in the same field and has been successfully applied by others in practical application fields, such as medical data analysis, internet data analysis, etc. However, the practical multi-view application scenarios still face many challenges that need to be further studied. I summarized some application-related [papers](https://github.com/SubmissionsIn/MVC4Applications) hoping to promote academic research and application as well as for the reference of future work. The following is my relevant work:
 
-**Under-Review Papers:**
-1. Shangbo Yuan, **Jie Xu**, Na Zhao, Ping Hu, Xiaofeng Zhu. Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis.
-2. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework.
-3. Yuanyang Zhang, Yijie Lin, Xinhang Wan, Chao Zhang, **Jie Xu**, Cunjian Chen, Tien-Tsin Wong, Li Yao. Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling.
-4. Shuaiyu Liu, Song Wu, **Jie Xu**, Yazhou Ren, Yang Yang, Xiaorong Pu, Guoying Wang. Views Attention Fusion of Granular-ball Fuzzy Representations Split for Improved Multi-view Clustering.
+**Preprint Papers (no review):**
+1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework.
+2. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. Revisiting Confidence Calibration for Misclassification Detection in VLMs.
+3. Wenyuan Yang, **Jie Xu**, Hongqing He, Jiangzhang Gan, Xiaofeng Zhu. Missing Pattern Tree Based Decision Grouping and Ensemble for Deep Incomplete Multi-View Clustering.
+4. Hongqing He, **Jie Xu**, Wenyuan Yang, Yonghua Zhu, Guoqiu Wen, Xiaofeng Zhu. Global-graph Guided and Local-graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data.
+5. Yuanyang Zhang, Yijie Lin, Xinhang Wan, **Jie Xu**, Li Yao, Weiqing Yan, Chang Tang. Structure-Aware Conditional Diffusion Generation for Incomplete Multi-View Clustering.
+6. Xiaorui Jiang, Yulin Fu, Shaokai Chen, Yu Gao, Yong Liao, **Jie Xu**. Once Is Enough: Communication-Efficient Federated Unsupervised Multi-View Representation Learning.
 
-**Published Papers (\*corresponding author; $^\ddagger$equal contribution):**
-
+**Published Papers (full review) (\*corresponding author; $^\ddagger$equal contribution):**
+1. Shangbo Yuan, **Jie Xu**\*, Na Zhao, Ping Hu, Xiaofeng Zhu. Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral presentation paper**</span>, 2026.
 1. **Jie Xu**, Na Zhao, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu. Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
 1. Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, **Jie Xu**\*, Yong Liao\*. A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
 1. Hongqing He, **Jie Xu**\*, Guoqiu Wen\*, Yazhou Ren, Na Zhao, Xiaofeng Zhu. Graph Embedded Contrastive Learning for Multi-View Clustering. International Joint Conference on Artificial Intelligence (IJCAI), 2025.
-1. Yuanyang Zhang, Yijie Lin, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, **Jie Xu**. Incomplete Multi-view Clustering via Diffusion Contrastive Generation. AAAI Conference on Artificial Intelligence (AAAI), 2024.
+1. Yuanyang Zhang, Yijie Lin, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, **Jie Xu**. Incomplete Multi-view Clustering via Diffusion Contrastive Generation. AAAI Conference on Artificial Intelligence (AAAI), 2025.
 1. Caixuan Luo, **Jie Xu**\*, Yazhou Ren, Junbo Ma, Xiaofeng Zhu. Simple Contrastive Multi-View Clustering with Data-Level Fusion. International Joint Conference on Artificial Intelligence (IJCAI), 2024.
 1. **Jie Xu**, Yazhou Ren, Xiaolong Wang, Lei Feng, Zheng Zhang, Gang Niu, Xiaofeng Zhu. Investigating and Mitigating the Side Effects of Noisy Views in Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 1. **Jie Xu**, Shuo Chen, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Gang Niu, Xiaofeng Zhu. Self-Weighted Contrastive Learning among Multiple Views for Mitigating Representation Degeneration. Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
@@ -68,6 +71,8 @@ Fortunately, my research has gained the attention of scholars in the same field 
 1. **Jie Xu**, Chao Li, Yazhou Ren, Liang Peng, Yujie Mo, Xiaoshuang Shi, Xiaofeng Zhu. Deep Incomplete Multi-view Clustering via Mining Cluster Complementarity. AAAI Conference on Artificial Intelligence (AAAI), 2022.
 1. **Jie Xu**, Yazhou Ren, Huayi Tang, Xiaorong Pu, Xiaofeng Zhu, Ming Zeng, Lifang He. Multi-VAE: Learning Disentangled View-common and View-peculiar Visual Representations for Multi-view Clustering. IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
 1. **Jie Xu**, Yazhou Ren, Guofeng Li, Lili Pan, Ce Zhu, Zenglin Xu. Deep Embedded Multi-View Clustering with Collaborative Training. Information Sciences (Inf.Sci., IF=8.1), 2021.
+1. Yuanyang Zhang, Yijie Lin, Xinhang Wan, Chao Zhang, **Jie Xu**, Cunjian Chen, Tien-Tsin Wong, Li Yao. Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling, <span style="color: red;">**Oral presentation paper**</span>, 2026.
+1. Shuaiyu Liu, Song Wu, **Jie Xu**, Yazhou Ren, Yang Yang, Xiaorong Pu, Guoying Wang. Views Attention Fusion of Granular-ball Fuzzy Representations Split for Improved Multi-view Clustering, <span style="color: red;">**Oral presentation paper**</span>, 2026.
 1. Fangfei Lin, **Jie Xu**, Yazhou Ren, Junjie Chen, Irwin King, Zenglin Xu. Multi-modal Hierarchical Clustering for Cancer Subtype Identification using Multi-omics Data. International Joint Conference on Neural Networks (IJCNN), 2025.
 1. Jianpeng Chen, Yawen Ling, **Jie Xu**, Yazhou Ren, Shudong Huang, Xiaorong Pu, Lifang He. Variational Graph Generator for Multi-View Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.2), 2024.
 1. Xinyue Chen, Yazhou Ren, **Jie Xu**, Fangfei Lin, Xiaorong Pu, Lifang He. Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views. Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
@@ -105,5 +110,5 @@ Fortunately, my research has gained the attention of scholars in the same field 
 # 💬 Services
 
 - Conference Area Chair: ICLR 2026 etc.
-- Conference Reviewer: CVPR 2022-2025, ICCV 2023-2025, ECCV 2022-2024, NeurIPS 2024-2025, ICML 2024-2025, ICLR 2025, AISTATS 2025-2026, IJCAI 2025, AAAI 2024-2026, ACM MM 2023-2025, KDD 2022-2023, CIKM 2022-2025, SDM 2024 etc.
+- Conference Reviewer: CVPR 2022-2026, ICCV 2023-2025, ECCV 2022-2024, NeurIPS 2024-2025, ICML 2024-2025, ICLR 2025, AISTATS 2025-2026, IJCAI 2025, AAAI 2024-2026, ACM MM 2023-2025, KDD 2022-2023, CIKM 2022-2025, SDM 2024 etc.
 - Journal Reviewer: TPAMI, TIP, TKDE, TCYB, TNNLS, TCSVT, TCSS, TKDD, Pattern Recognition, Information Fusion, Information Sciences, IPM, ESWA, Neural Networks, Neurocomputing etc.
