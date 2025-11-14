@@ -50,8 +50,8 @@ Fortunately, my research has gained the attention of scholars in the same field 
 **Preprint Papers (no review):**
 1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework.
 2. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. Revisiting Confidence Calibration for Misclassification Detection in VLMs.
-3. Wenyuan Yang, **Jie Xu**, Hongqing He, Jiangzhang Gan, Xiaofeng Zhu. Missing Pattern Tree Based Decision Grouping and Ensemble for Deep Incomplete Multi-View Clustering.
-4. Hongqing He, **Jie Xu**, Wenyuan Yang, Yonghua Zhu, Guoqiu Wen, Xiaofeng Zhu. Global-graph Guided and Local-graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data.
+3. Wenyuan Yang, **Jie Xu**, Hongqing He, Jiangzhang Gan, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Deep Incomplete Multi-View Clustering.
+4. Hongqing He, **Jie Xu**, Wenyuan Yang, Yonghua Zhu, Guoqiu Wen, Xiaofeng Zhu. Global-Graph Guided and Local-Graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data.
 5. Yuanyang Zhang, Yijie Lin, Xinhang Wan, **Jie Xu**, Li Yao, Weiqing Yan, Chang Tang. Structure-Aware Conditional Diffusion Generation for Incomplete Multi-View Clustering.
 6. Xiaorui Jiang, Yulin Fu, Shaokai Chen, Yu Gao, Yong Liao, **Jie Xu**. Once Is Enough: Communication-Efficient Federated Unsupervised Multi-View Representation Learning.
 
