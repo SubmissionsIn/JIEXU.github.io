@@ -25,7 +25,7 @@ Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Per
 I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view machine learning</u>. I am seeking extensive cooperation opportunities with self-motivated students and if you are interested in our research topics or just want to have a chat, please feel free to contact me via email.
 </span>
 
-# 🤗 News
+# ✨ News
 
 - *2026.03*, Invited to serve as Area Chair for NeurIPS 2026.
 - *2026.03*, Invited to serve as Area Chair for ICME 2026.
@@ -37,6 +37,21 @@ I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view
 - *2025.06*, Two papers are accepted by ICCV 2025.
 - *2025.04*, One paper is accepted by IJCAI 2025.
 - *2024.12*, I have obtained my doctoral degree from UESTC.
+
+<div style="max-height:200px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+  <ul>
+    <li><em>2026.03</em>, Invited to serve as Area Chair for NeurIPS 2026.</li>
+    <li><em>2026.03</em>, Invited to serve as Area Chair for ICME 2026.</li>
+    <li><em>2026.03</em>, One paper is accepted by IEEE TKDE.</li>
+    <li><em>2026.02</em>, Two papers are accepted by CVPR 2026.</li>
+    <li><em>2026.01</em>, One paper is accepted by ICLR 2026.</li>
+    <li><em>2025.11</em>, Three papers are accepted by AAAI 2026.</li>
+    <li><em>2025.08</em>, I will serve as an Area Chair for ICLR 2026.</li>
+    <li><em>2025.06</em>, Two papers are accepted by ICCV 2025.</li>
+    <li><em>2025.04</em>, One paper is accepted by IJCAI 2025.</li>
+    <li><em>2024.12</em>, I have obtained my doctoral degree from UESTC.</li>
+  </ul>
+</div>
 
 # 📖 Research
 
@@ -87,7 +102,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 - UESTC Outstanding Bachelor Graduate Students 2020
 - UESTC Annual Scholarship for Outstanding Students 2017, 2018, 2019, 2021, 2022, 2023, 2024
 
-# ✨ Talks
+# 🤗 Talks
 
 - *2024.11.28*, Research on Deep Multi-View Clustering Method for Realistic Complex Data Application Scenarios, invited by Prof. Xiao-Ning Li at Sichuan Normal University.
 - *2024.05.02*, Deep Multi-View Learning towards Noisy Data, invited by Prof. [Zeyu Zhang](https://alex-zeyu.github.io/) at Huazhong Agricultural University.
