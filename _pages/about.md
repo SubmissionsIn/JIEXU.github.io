@@ -27,7 +27,7 @@ I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view
 
 # ✨ News
 
-<div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+<div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
     <li><em>2026.03</em>, Invited to serve as Area Chair for NeurIPS 2026.</li>
     <li><em>2026.03</em>, Invited to serve as Area Chair for ICME 2026.</li>
