@@ -27,18 +27,7 @@ I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view
 
 # ✨ News
 
-- *2026.03*, Invited to serve as Area Chair for NeurIPS 2026.
-- *2026.03*, Invited to serve as Area Chair for ICME 2026.
-- *2026.03*, One paper is accepted by IEEE TKDE.
-- *2026.02*, Two papers are accepted by CVPR 2026.
-- *2026.01*, One paper is accepted by ICLR 2026.
-- *2025.11*, Three papers are accepted by AAAI 2026.
-- *2025.08*, I will serve as an Area Chair for ICLR 2026.
-- *2025.06*, Two papers are accepted by ICCV 2025.
-- *2025.04*, One paper is accepted by IJCAI 2025.
-- *2024.12*, I have obtained my doctoral degree from UESTC.
-
-<div style="max-height:200px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+<div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
     <li><em>2026.03</em>, Invited to serve as Area Chair for NeurIPS 2026.</li>
     <li><em>2026.03</em>, Invited to serve as Area Chair for ICME 2026.</li>
