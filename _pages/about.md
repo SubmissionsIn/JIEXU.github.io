@@ -45,7 +45,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 2. General and robust self-supervised learning methods across multi-view/modal/graph/omics fields.
 
 **Publications (\*corresponding author; $^\ddagger$equal contribution):**
-1. Jincheng Huang, **Jie Xu**\*, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. Revisiting Confidence Calibration for Misclassification Detection in VLMs. International Conference on Learning Representations (ICLR), 2026.
+1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. Revisiting Confidence Calibration for Misclassification Detection in VLMs. International Conference on Learning Representations (ICLR), 2026.
 1. Shangbo Yuan, **Jie Xu**\*, Na Zhao, Ping Hu, Xiaofeng Zhu. Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral presentation**</span>, 2026.
 1. **Jie Xu**, Na Zhao, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu. Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
 1. Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, **Jie Xu**\*, Yong Liao\*. A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
