@@ -29,6 +29,7 @@ I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view
 
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
+    <li><em>2026.04</em>, Invited to serve as Area Chair for ACMMM 2026 Dataset Track.</li>
     <li><em>2026.03</em>, Invited to serve as Area Chair for NeurIPS 2026.</li>
     <li><em>2026.03</em>, Invited to serve as Area Chair for ICME 2026.</li>
     <li><em>2026.03</em>, One paper is accepted by IEEE TKDE.</li>
@@ -63,7 +64,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 1. **Jie Xu**$^\ddagger$, Huayi Tang$^\ddagger$, Yazhou Ren, Liang Peng, Xiaofeng Zhu, Lifang He. Multi-Level Feature Learning for Contrastive Multi-View Clustering. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), <span style="color: red;">**Oral presentation**</span>, 2022.
 1. **Jie Xu**, Chao Li, Yazhou Ren, Liang Peng, Yujie Mo, Xiaoshuang Shi, Xiaofeng Zhu. Deep Incomplete Multi-view Clustering via Mining Cluster Complementarity. AAAI Conference on Artificial Intelligence (AAAI), 2022.
 1. **Jie Xu**, Yazhou Ren, Huayi Tang, Xiaorong Pu, Xiaofeng Zhu, Ming Zeng, Lifang He. Multi-VAE: Learning Disentangled View-common and View-peculiar Visual Representations for Multi-view Clustering. IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
-1. **Jie Xu**, Yazhou Ren, Guofeng Li, Lili Pan, Ce Zhu, Zenglin Xu. Deep Embedded Multi-View Clustering with Collaborative Training. Information Sciences (Inf.Sci., IF=8.2), 2021.
+1. **Jie Xu**, Yazhou Ren, Guofeng Li, Lili Pan, Ce Zhu, Zenglin Xu. Deep Embedded Multi-View Clustering with Collaborative Training. Information Sciences (Inf.Sci., IF=8.2), <span style="color: red;">**ESI highly cited**</span>, 2021.
 1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. Revisiting Confidence Calibration for Misclassification Detection in VLMs. International Conference on Learning Representations (ICLR), 2026.
 1. Yuanyang Zhang, Yijie Lin, Xinhang Wan, Chao Zhang, **Jie Xu**, Cunjian Chen, Tien-Tsin Wong, Li Yao. Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral presentation**</span>, 2026.
 1. Shuaiyu Liu, Song Wu, **Jie Xu**, Yazhou Ren, Yang Yang, Xiaorong Pu, Guoying Wang. Views Attention Fusion of Granular-ball Fuzzy Representations Split for Improved Multi-view Clustering. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral presentation**</span>, 2026.
@@ -103,6 +104,6 @@ I am excited about the ongoing developments in the field of artificial intellige
 
 # 💬 Services
 
-- Conference Area Chair: NeurIPS 2026, ICLR 2026, ICME 2026 etc.
-- Conference Reviewer: CVPR 2022-2026, ICCV 2023-2025, ECCV 2022-2026, NeurIPS 2024-2025, ICML 2024-2026, ICLR 2025, AISTATS 2025-2026, AAAI 2024-2026, IJCAI 2025-2026, ACM MM 2023-2026, KDD 2022-2026, CIKM 2022-2025, SDM 2024 etc.
+- Conference Area Chair: ACMMM 2026, NeurIPS 2026, ICLR 2026, ICME 2026 etc.
+- Conference Reviewer: CVPR 2022-2026, ICCV 2023-2025, ECCV 2022-2026, NeurIPS 2024-2025, ICML 2024-2026, ICLR 2025, AISTATS 2025-2026, AAAI 2024-2026, IJCAI 2025-2026, ACMMM 2023-2026, KDD 2022-2026, CIKM 2022-2025, SDM 2024 etc.
 - Journal Reviewer: TPAMI, TIP, TKDE, TCYB, TNNLS, TCSVT, TBD, TCSS, TKDD, SCIS, Pattern Recognition, Information Fusion, Information Sciences, IP&M, ESWA, EAAI, FCS, DMKD, BE, Machine Learning, Neural Networks, Neurocomputing etc.
