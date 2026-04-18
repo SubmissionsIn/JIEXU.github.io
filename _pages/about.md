@@ -21,7 +21,7 @@ Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Per
 
 **Much gratitude to my close collaborators**: [Xiaorui Jiang](https://xiaorui-jiang.github.io/), [Yuanyang Zhang](https://scholar.google.com/citations?user=UjeMnyMAAAAJ&hl=en&oi=ao), [Shangbo Yuan](https://scholar.google.com/citations?user=2_S2Fc0AAAAJ&hl=en&oi=ao), [Jincheng Huang](https://huangjc0429.github.io/JinchengHuang.github.io/), [Liang Peng](https://scholar.google.com/citations?user=GuKZfakAAAAJ&hl=en), [Fangfei Lin](https://scholar.google.com/citations?hl=en&user=7EZJ4ZIAAAAJ), [Jianpeng Chen](https://cjpcool.github.io/), [Xinyue Chen](https://scholar.google.com/citations?hl=en&user=RBjE4q0AAAAJ), [Huayi Tang]().
 
-I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view machine learning</u>. I am seeking extensive cooperation opportunities and if you are interested in our research topics or just want to have a chat, please feel free to contact me via Email or [<a href="JIE.jpg">WeChat</a>]. [WeChat](https://github.com/SubmissionsIn/JIEXU.github.io/blob/main/_pages/JIE.jpg)
+I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view machine learning</u>. I am seeking extensive cooperation opportunities and if you are interested in our research topics or just want to have a chat, please feel free to contact me via Email or [<a href="JIE.jpg">WeChat</a>].
 
 # ✨ News
 
