@@ -27,6 +27,8 @@ I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view
 
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
+    <li><em>2026.05</em>, One paper is accepted by ICML 2026.</li>
+    <li><em>2026.05</em>, One paper is accepted by IJCAI 2026.</li>
     <li><em>2026.04</em>, Invited to serve as Area Chair for ACMMM 2026 Dataset Track.</li>
     <li><em>2026.03</em>, Invited to serve as Area Chair for NeurIPS 2026.</li>
     <li><em>2026.03</em>, Invited to serve as Area Chair for ICME 2026.</li>
@@ -44,8 +46,14 @@ I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view
 # 📖 Research
 
 I am excited about the ongoing developments in the field of artificial intelligence represented by machine learning and deep learning. The research topics that I am currently working on include:
-1. 3D scene understanding with vision-language foundation models for the Embodied AI applications.
-2. General and robust self-supervised learning methods across multi-view/modal/graph/omics fields.
+1. Multi-view 3D computer vision with foundation models for 3D scene understanding and Embodied AI (mainly supported by the MOE Academic Research Fund Tier 2 of Singapore: MOE-T2EP20124-0013).
+   a. Point cloud analysis(AAAI26)
+   b. Semantic segmentation(ICML26,CVPR26F)
+   c. Object detection(...)
+2. General and robust multi-view machine learning across multi-view/modal/graph/omics/label fields (mainly supported by the National Key Research and Development Program of China: 2022YFA1004100).
+   a. Theory: multi-view consistency & complementarity & noise-view robustness(CVPR24,NeurIPS23,AAAI22), generalization(TKDE23), interpretability(Inf.Fus23)
+   b. Algorithm: unsupervised clustering(CVPR26,Inf.Sci21), contrastive learning(IJCAI24,CVPR22), view generation(AAAI25,ICCV21), view incompleteness(ICCV25,TIP23)
+   c. Application: cross-modal retrieval(ICCV25), graph data mining(IJCAI25), genomic multi-omics(IJCNN25), federated learning(NeurIPS24,ACMMM23), medical fMRI(TMI22)
 
 **Publications (\*corresponding author; $^\ddagger$equal contribution):**
 1. Shangbo Yuan, **Jie Xu**\*, Ping Hu, Xiaofeng Zhu, Na Zhao. Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral presentation**</span>, 2026.
@@ -72,7 +80,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 1. Yazhou Ren, Jingyu Pu, Zhimeng Yang, **Jie Xu**, Guofeng Li, Xiaorong Pu, Philip S Yu, Lifang He. Deep Clustering: A Comprehensive Survey. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.2), <span style="color: red;">**ESI highly cited**</span>, 2024.
 1. Yazhou Ren, Xinyue Chen, **Jie Xu**, Jingyu Pu, Yonghao Huang, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. A Novel Federated Multi-View Clustering Method for Unaligned and Incomplete Data Fusion. Information Fusion (Inf.Fus., IF=14.8), 2024.
 1. Liang Peng, Yujie Mo, **Jie Xu**, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu. GRLC: Graph Representation Learning with Constraints. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.4), <span style="color: red;">**ESI highly cited**</span>, 2023.
-1. Xinyue Chen, **Jie Xu**, Yazhou Ren, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. Federated Deep Multi-View Clustering with Global Self-Supervision. ACM International Conference on Multimedia (ACM MM), 2023.
+1. Xinyue Chen, **Jie Xu**, Yazhou Ren, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. Federated Deep Multi-View Clustering with Global Self-Supervision. ACM International Conference on Multimedia (ACMMM), 2023.
 1. Yawen Ling, Jianpeng Chen, Yazhou Ren, Xiaorong Pu, **Jie Xu**, Xiaofeng Zhu, Lifang He. Dual Label-Guided Graph Refinement for Multi-View Graph Clustering. AAAI Conference on Artificial Intelligence (AAAI), 2023.
 1. Zhimeng Yang, Yazhou Ren, Zirui Wu, Ming Zeng, **Jie Xu**, Yang Yang, Xiaorong Pu, Philip S. Yu, Lifang He. DC-FUDA: Improving Deep Clustering via Fully Unsupervised Domain Adaptation. Neurocomputing (NEUCOM, IF=6.0), 2023.
 1. Liang Peng, Nan Wang, **Jie Xu**, Xiaofeng Zhu, Xiaoxiao Li. GATE: Graph CCA for Temporal SElf-supervised Learning for Label-efficient fMRI Analysis. IEEE Transactions on Medical Imaging (TMI, IF=11.0), 2022.
