@@ -51,7 +51,7 @@ I am excited about the ongoing developments in the field of artificial intellige
    - Semantic segmentation (ICML26, CVPR26F)
    - Object detection (...)
 2. Multi-view machine learning across multi-view/modal/graph/omics/label sources (project for National Key R&D Program of China: 2022YFA1004100)
-   - Theoretical exploration: multi-view consistency & complementarity & robustness (CVPR24, NeurIPS23, AAAI22), generalization (TKDE23), interpretability (Inf.Fus23)
+   - Theory: multi-view consistency & complementarity & robustness (CVPR24, NeurIPS23, AAAI22), generalization (TKDE23), interpretability (Inf.Fus23)
    - Algorithm: unsupervised clustering (CVPR26, Inf.Sci21), contrastive learning (IJCAI24, CVPR22), view generation (AAAI25, ICCV21), view incompleteness (ICCV25, TIP23)
    - Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), federated learning (NeurIPS24, ACMMM23), medical fMRI (TMI22)
 
