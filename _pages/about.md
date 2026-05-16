@@ -47,13 +47,13 @@ I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view
 
 I am excited about the ongoing developments in the field of artificial intelligence represented by machine learning and deep learning. The research topics that I am currently working on include:
 1. Multi-view 3D computer vision with foundation models for 3D scene understanding and Embodied AI (MOE Academic Research Fund Tier 2 of Singapore: MOE-T2EP20124-0013)
-   1. Point cloud analysis (AAAI26)
-   2. Semantic segmentation (ICML26, CVPR26F)
-   3. Object detection (...)
+   - Point cloud analysis (AAAI26)
+   - Semantic segmentation (ICML26, CVPR26F)
+   - Object detection (...)
 2. General and robust multi-view machine learning across multi-view/modal/graph/omics/label fields (National Key Research and Development Program of China: 2022YFA1004100)
-   1. Theory: multi-view consistency & complementarity & noise-view robustness (CVPR24, NeurIPS23, AAAI22), generalization (TKDE23), interpretability (Inf.Fus23)
-   2. Algorithm: unsupervised clustering (CVPR26, Inf.Sci21), contrastive learning (IJCAI24, CVPR22), view generation (AAAI25, ICCV21), view incompleteness (ICCV25, TIP23)
-   3. Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), federated learning (NeurIPS24, ACMMM23), medical fMRI (TMI22)
+   - Theory: multi-view consistency & complementarity & noise-view robustness (CVPR24, NeurIPS23, AAAI22), generalization (TKDE23), interpretability (Inf.Fus23)
+   - Algorithm: unsupervised clustering (CVPR26, Inf.Sci21), contrastive learning (IJCAI24, CVPR22), view generation (AAAI25, ICCV21), view incompleteness (ICCV25, TIP23)
+   - Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), federated learning (NeurIPS24, ACMMM23), medical fMRI (TMI22)
 
 **Publications (\*corresponding author; $^\ddagger$equal contribution):**
 1. Shangbo Yuan, **Jie Xu**\*, Ping Hu, Xiaofeng Zhu, Na Zhao. Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral presentation**</span>, 2026.
