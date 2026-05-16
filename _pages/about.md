@@ -52,8 +52,8 @@ I am excited about the ongoing developments in the field of artificial intellige
    - Object detection (...)
 2. Multi-view machine learning across multi-view/modal/graph/omics/label sources (project for National Key R&D Program of China: 2022YFA1004100)
    - Theory: multi-view consistency & complementarity & noise-view robustness (CVPR24, NeurIPS23, AAAI22), generalization (TKDE23), interpretability (Inf.Fus23)
-   - Algorithm: unsupervised clustering (CVPR26, Inf.Sci21), contrastive learning (IJCAI24, CVPR22), view generation (AAAI25, ICCV21), view incompleteness (ICCV25, TIP23)
-   - Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), federated learning (NeurIPS24, ACMMM23), medical fMRI (TMI22)
+   - Algorithm: unsupervised clustering (IJCAI24, Inf.Sci21), contrastive learning (CVPR26, CVPR22), view generation (AAAI25, ICCV21), view incompleteness (ICCV25, TIP23)
+   - Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), medical fMRI (TMI22), federated learning (NeurIPS24, ACMMM23)
 
 **Publications (\*corresponding author; $^\ddagger$equal contribution):**
 1. Shangbo Yuan, **Jie Xu**\*, Ping Hu, Xiaofeng Zhu, Na Zhao. Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral presentation**</span>, 2026.
