@@ -46,11 +46,11 @@ I am currently working on <u>multi-view 3D computer vision</u> and <u>multi-view
 # 📖 Research
 
 I am excited about the ongoing developments in the field of artificial intelligence represented by machine learning and deep learning. The research topics that I am currently working on include:
-1. Multi-view 3D computer vision for 3D scene understanding and Embodied AI (project for MOE Academic Research Fund Tier 2 of Singapore: MOE-T2EP20124-0013)
+1. Multi-view 3D computer vision for 3D scene understanding and Embodied AI (project for MOE Academic Research Fund Tier 2 of Singapore No.MOE-T2EP20124-0013)
    - Point cloud analysis (AAAI26)
    - Semantic segmentation (ICML26, CVPR26F)
    - Object detection (...)
-2. Multi-view machine learning across multi-view/modal/graph/omics/label sources (project for National Key R&D Program of China: 2022YFA1004100)
+2. Multi-view machine learning across multi-view/modal/graph/omics/label sources (project for National Key R&D Program of China No.2022YFA1004100; National Natural Science Foundation of China No.61806043)
    - Theory: multi-view consistency & complementarity & noise-view robustness (CVPR24, NeurIPS23, AAAI22), generalization (TKDE23), interpretability (Inf.Fus23)
    - Algorithm: unsupervised clustering (IJCAI24, Inf.Sci21), contrastive learning (CVPR26, CVPR22), view generation (AAAI25, ICCV21), view incompleteness (ICCV25, TIP23)
    - Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), medical fMRI (TMI22), federated learning (NeurIPS24, ACMMM23)
