@@ -28,7 +28,7 @@ I am currently working on <u>multi-view learning and its applications in 3D visi
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
     <li><em>2026.07</em>, Invited to serve as Senior Program Committee for AAAI 2027.</li>
-    <li><em>2026.07</em>, One paper is accepted by ACMMM 2026.</li>
+    <li><em>2026.07</em>, Two paper are accepted by ACMMM 2026.</li>
     <li><em>2026.06</em>, Two paper are accepted by ECCV 2026.</li>
     <li><em>2026.05</em>, One paper is accepted by ICML 2026.</li>
     <li><em>2026.05</em>, One paper is accepted by IJCAI 2026.</li>
