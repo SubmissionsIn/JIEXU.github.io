@@ -27,6 +27,7 @@ I am currently working on <u>multi-view learning and its applications in 3D visi
 
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
+    <li><em>2026.08</em>, Invited to serve as Area Chair for ICLR 2027.</li>
     <li><em>2026.07</em>, Invited to serve as Senior Program Committee for AAAI 2027.</li>
     <li><em>2026.07</em>, Two paper are accepted by ACMMM 2026.</li>
     <li><em>2026.06</em>, Two paper are accepted by ECCV 2026.</li>
@@ -59,6 +60,7 @@ I am excited about the ongoing developments in the field of artificial intellige
    - Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), medical fMRI (TMI22), federated learning (NeurIPS24)
 
 **Publications (\*corresponding author; $^\ddagger$equal contribution):**
+1. Shangbo Yuan, **Jie Xu**\*, Xiaofeng Zhu, Na Zhao. Crossing Modalities, Closing Domains: Source-Free Indoor 3D Object Detection from Synthetic to Real Adaptation. ACM International Conference on Multimedia (MM), 2026.
 1. Shangbo Yuan, **Jie Xu**\*, Xiaofeng Zhu, Na Zhao. Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training. European Conference on Computer Vision (ECCV), 2026.
 1. Shuyu Cao, Chongshou Li, **Jie Xu**\*, Tianrui Li, Na Zhao. Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation. International Conference on Machine Learning (ICML), 2026.
 1. **Jie Xu**, Na Zhao. Stream3D: Streaming Zero-Shot 3D Instance Segmentation with Multi-View Noise Mask Filtering and Manifold Refining. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Findings track, 2026.
@@ -78,6 +80,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 1. **Jie Xu**, Chao Li, Yazhou Ren, Liang Peng, Yujie Mo, Xiaoshuang Shi, Xiaofeng Zhu. Deep Incomplete Multi-view Clustering via Mining Cluster Complementarity. AAAI Conference on Artificial Intelligence (AAAI), 2022.
 1. **Jie Xu**, Yazhou Ren, Huayi Tang, Xiaorong Pu, Xiaofeng Zhu, Ming Zeng, Lifang He. Multi-VAE: Learning Disentangled View-common and View-peculiar Visual Representations for Multi-view Clustering. IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
 1. **Jie Xu**, Yazhou Ren, Guofeng Li, Lili Pan, Ce Zhu, Zenglin Xu. Deep Embedded Multi-View Clustering with Collaborative Training. Information Sciences (Inf.Sci., IF=8.2), <span style="color: red;">**ESI highly cited**</span>, 2021.
+1. Yuanyang Zhang, Xinhang Wan, Jiyuan Liu, **Jie Xu**, Li Yao, Yijie Lin, Tien-Tsin Wong. Robust Incomplete Multi-view Clustering via Cycle-Consistent Optimal Transport and Hybrid Imputation. ACM International Conference on Multimedia (MM), <span style="color: red;">**Oral presentation**</span>, 2026.
 1. Peisheng Qian, **Jie Xu**, Xulei Yang, Na Zhao. Breaking the Model Forgetting Cycle in Long-Incremental 3D Object Detection. European Conference on Computer Vision (ECCV), 2026.
 1. Gaokai Wang, Yazhou Ren, Fengyu Zhang, **Jie Xu**, Chaoning Zhang, Zhen Long, Ce Zhu. Salient-Residual Decoupled Multi-View Learning for Clustering. International Joint Conference on Artificial Intelligence (IJCAI), 2026.
 1. Yuanyang Zhang, Yijie Lin, Xinhang Wan, **Jie Xu**, Li Yao, Weiqing Yan, Chang Tang. Structure-Aware Conditional Diffusion Generation for Incomplete Multi-View Clustering. IEEE Transactions on Knowledge and Data Engineering (TKDE, IF=10.4), 2026.
@@ -90,7 +93,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 1. Yazhou Ren, Jingyu Pu, Zhimeng Yang, **Jie Xu**, Guofeng Li, Xiaorong Pu, Philip S Yu, Lifang He. Deep Clustering: A Comprehensive Survey. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.2), <span style="color: red;">**ESI highly cited**</span>, 2024.
 1. Yazhou Ren, Xinyue Chen, **Jie Xu**, Jingyu Pu, Yonghao Huang, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. A Novel Federated Multi-View Clustering Method for Unaligned and Incomplete Data Fusion. Information Fusion (Inf.Fus., IF=14.8), 2024.
 1. Liang Peng, Yujie Mo, **Jie Xu**, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu. GRLC: Graph Representation Learning with Constraints. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.4), <span style="color: red;">**ESI highly cited**</span>, 2023.
-1. Xinyue Chen, **Jie Xu**, Yazhou Ren, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. Federated Deep Multi-View Clustering with Global Self-Supervision. ACM International Conference on Multimedia (ACMMM), 2023.
+1. Xinyue Chen, **Jie Xu**, Yazhou Ren, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. Federated Deep Multi-View Clustering with Global Self-Supervision. ACM International Conference on Multimedia (MM), 2023.
 1. Yawen Ling, Jianpeng Chen, Yazhou Ren, Xiaorong Pu, **Jie Xu**, Xiaofeng Zhu, Lifang He. Dual Label-Guided Graph Refinement for Multi-View Graph Clustering. AAAI Conference on Artificial Intelligence (AAAI), 2023.
 1. Zhimeng Yang, Yazhou Ren, Zirui Wu, Ming Zeng, **Jie Xu**, Yang Yang, Xiaorong Pu, Philip S. Yu, Lifang He. DC-FUDA: Improving Deep Clustering via Fully Unsupervised Domain Adaptation. Neurocomputing (NEUCOM, IF=6.0), 2023.
 1. Liang Peng, Nan Wang, **Jie Xu**, Xiaofeng Zhu, Xiaoxiao Li. GATE: Graph CCA for Temporal SElf-supervised Learning for Label-efficient fMRI Analysis. IEEE Transactions on Medical Imaging (TMI, IF=11.0), 2022.
@@ -122,6 +125,6 @@ I am excited about the ongoing developments in the field of artificial intellige
 
 # 💬 Services
 
-- Conference Area Chair/SPC: AAAI 2027, ACMMM 2026, NeurIPS 2026, ICLR 2026, ICME 2026 etc.
+- Conference Area Chair/SPC: ICLR 2026-2027, AAAI 2027, ACMMM 2026, NeurIPS 2026, ICME 2026 etc.
 - Conference Reviewer: CVPR 2022-2026, ICCV 2023-2025, ECCV 2022-2026, NeurIPS 2024-2025, ICML 2024-2026, ICLR 2025, AISTATS 2025-2026, AAAI 2024-2026, IJCAI 2025-2026, ACMMM 2023-2026, KDD 2022-2027, CIKM 2022-2026, SDM 2024 etc.
-- Journal Reviewer: TPAMI, TIP, TKDE, TCYB, TNNLS, TCSVT, TBD, TCSS, TKDD, TMLR, SCIS, Pattern Recognition, Information Fusion, Information Sciences, IP&M, ESWA, EAAI, FCS, DMKD, MEAS, BE, Machine Learning, Neural Networks, Neurocomputing etc.
+- Journal Reviewer: TPAMI, TIP, TKDE, TCYB, TNNLS, TCSVT, TBD, TCSS, TKDD, TMLR, SCIS, Pattern Recognition, Information Fusion, Information Sciences, IP&M, ESWA, EAAI, FCS, CVIU, DMKD, MEAS, BE, RENE, Machine Learning, Neural Networks, Neurocomputing etc.
