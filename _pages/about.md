@@ -106,6 +106,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 # 🏆 Honors and Awards
 
 - CVPR Compute Transparency Champion Award 2026
+- ICML Silver Reviewer Award 2025
 - UESTC Outstanding Doctor Graduate Thesis Award 2025
 - UESTC Outstanding Doctor Graduate Students 2024
 - National Scholarship 2019 (Bachelor), 2022 (Doctor)
