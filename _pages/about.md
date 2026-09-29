@@ -28,7 +28,7 @@ I am currently working on <u>multi-view learning and its applications in 3D visi
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
     <li><em>2026.09</em>, One paper is accepted by NeurIPS 2026.</li>
-    <!-- <li><em>2026.09</em>, One paper is accepted by IEEE TPAMI. **Jie Xu**, Wenyuan Yang, Yazhou Ren, Lifang He, Philip S. Yu, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Enhancing Pair Utilization in Deep Incomplete Multi-View Clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.</li> -->
+    <!-- <li><em>2026.08</em>, One paper is accepted by IEEE TPAMI. **Jie Xu**, Wenyuan Yang, Yazhou Ren, Lifang He, Philip S. Yu, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Enhancing Pair Utilization in Deep Incomplete Multi-View Clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.</li> -->
     <li><em>2026.08</em>, Invited to serve as Area Chair for ICLR 2027.</li>
     <li><em>2026.07</em>, Invited to serve as Senior Program Committee (SPC) for AAAI 2027.</li>
     <li><em>2026.07</em>, Two paper are accepted by ACMMM 2026.</li>
@@ -107,10 +107,10 @@ I am excited about the ongoing developments in the field of artificial intellige
 
 - CVPR Compute Transparency Champion Award 2026
 - ICML Silver Reviewer Award 2025
+- AAAI Student Scholarship 2022
+- National Scholarship 2019 (Bachelor), 2022 (Doctor)
 - UESTC Outstanding Doctor Graduate Thesis Award 2025
 - UESTC Outstanding Doctor Graduate Students 2024
-- National Scholarship 2019 (Bachelor), 2022 (Doctor)
-- AAAI Student Scholarship 2022
 - UESTC Academic Newcomer Award 2022
 - UESTC Outstanding Bachelor Graduate Thesis Award 2020
 - UESTC Outstanding Bachelor Graduate Students 2020
