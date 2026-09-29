@@ -28,7 +28,7 @@ I am currently working on <u>multi-view learning and its applications in 3D visi
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
     <li><em>2026.09</em>, One paper is accepted by NeurIPS 2026.</li>
-    <!-- <li><em>2026.08</em>, One paper is accepted by IEEE TPAMI. **Jie Xu**, Wenyuan Yang, Yazhou Ren, Lifang He, Philip S. Yu, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Enhancing Pair Utilization in Deep Incomplete Multi-View Clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.</li> -->
+    <!-- <li><em>2026.09</em>, One paper is accepted by IEEE TPAMI. **Jie Xu**, Wenyuan Yang, Yazhou Ren, Lifang He, Philip S. Yu, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Enhancing Pair Utilization in Deep Incomplete Multi-View Clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.</li> -->
     <li><em>2026.08</em>, Invited to serve as Area Chair for ICLR 2027.</li>
     <li><em>2026.07</em>, Invited to serve as Senior Program Committee (SPC) for AAAI 2027.</li>
     <li><em>2026.07</em>, Two paper are accepted by ACMMM 2026.</li>
@@ -93,7 +93,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 1. Fangfei Lin, **Jie Xu**, Yazhou Ren, Junjie Chen, Irwin King, Zenglin Xu. Multi-modal Hierarchical Clustering for Cancer Subtype Identification using Multi-omics Data. International Joint Conference on Neural Networks (IJCNN), 2025.
 1. Jianpeng Chen, Yawen Ling, **Jie Xu**, Yazhou Ren, Shudong Huang, Xiaorong Pu, Lifang He. Variational Graph Generator for Multi-View Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=8.9), 2024.
 1. Xinyue Chen, Yazhou Ren, **Jie Xu**, Fangfei Lin, Xiaorong Pu, Lifang He. Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views. Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
-1. Yazhou Ren, Jingyu Pu, Zhimeng Yang, **Jie Xu**, Guofeng Li, Xiaorong Pu, Philip S Yu, Lifang He. Deep Clustering: A Comprehensive Survey. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.2), <span style="color: red;">**ESI highly cited**</span>, 2024.
+1. Yazhou Ren, Jingyu Pu, Zhimeng Yang, **Jie Xu**, Guofeng Li, Xiaorong Pu, Philip S Yu, Lifang He. Deep Clustering: A Comprehensive Survey. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.2), <span style="color: red;">**ESI highly cited & Hot paper**</span>, 2024.
 1. Yazhou Ren, Xinyue Chen, **Jie Xu**, Jingyu Pu, Yonghao Huang, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. A Novel Federated Multi-View Clustering Method for Unaligned and Incomplete Data Fusion. Information Fusion (Inf.Fus., IF=14.8), 2024.
 1. Liang Peng, Yujie Mo, **Jie Xu**, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu. GRLC: Graph Representation Learning with Constraints. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.4), <span style="color: red;">**ESI highly cited**</span>, 2023.
 1. Xinyue Chen, **Jie Xu**, Yazhou Ren, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. Federated Deep Multi-View Clustering with Global Self-Supervision. ACM International Conference on Multimedia (MM), 2023.
