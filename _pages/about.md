@@ -105,6 +105,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 
 # 🏆 Honors and Awards
 
+- Stanford/Elsevier Top 2% Scientists List 2026
 - CVPR Compute Transparency Champion Award 2026
 - ICML Silver Reviewer Award 2025
 - AAAI Student Scholarship 2022
