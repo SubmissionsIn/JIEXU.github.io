@@ -120,7 +120,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 
 # 🤗 Talks
 
-- *2024.11.28*, Research on Deep Multi-View Clustering Method for Realistic Complex Data Application Scenarios, invited by Prof. Xiao-Ning Li at Sichuan Normal University.
+- *2024.11.28*, Research on Deep Multi-View Clustering Method for Realistic Complex Data Application Scenarios, invited by Dean & Prof. Xiao-Ning Li at Sichuan Normal University.
 - *2024.05.02*, Deep Multi-View Learning towards Noisy Data, invited by Prof. [Zeyu Zhang](https://alex-zeyu.github.io/) at Huazhong Agricultural University.
 
 # 🏫 Educations
