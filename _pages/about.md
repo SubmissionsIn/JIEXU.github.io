@@ -27,6 +27,7 @@ I am currently working on <u>multi-view learning and its applications in 3D visi
 
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
+    <li><em>2026.10</em>, Top 2% Scientists 2026 listed by Stanford/Elsevier.</li>
     <li><em>2026.09</em>, One paper is accepted by NeurIPS 2026.</li>
     <!-- <li><em>2026.09</em>, One paper is accepted by IEEE TPAMI. **Jie Xu**, Wenyuan Yang, Yazhou Ren, Lifang He, Philip S. Yu, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Enhancing Pair Utilization in Deep Incomplete Multi-View Clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.</li> -->
     <li><em>2026.08</em>, Invited to serve as Area Chair for ICLR 2027.</li>
@@ -105,7 +106,7 @@ I am excited about the ongoing developments in the field of artificial intellige
 
 # 🏆 Honors and Awards
 
-- Stanford/Elsevier Top 2% Scientists List 2026
+- Stanford/Elsevier Top 2% Scientists List [2026](https://topscinet.com/scientist_profile/Xu,%20Jie/2003/?stype=single_year)
 - CVPR Compute Transparency Champion Award 2026
 - ICML Silver Reviewer Award 2025
 - AAAI Student Scholarship 2022
