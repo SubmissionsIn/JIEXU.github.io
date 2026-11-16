@@ -1,0 +1,136 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
+Hi, I am currently a postdoctoral research fellow in the Intelligent Machine Perception Lab leaded by Prof. [Na Zhao](https://impl2023.github.io/) in the Singapore University of Technology and Design (SUTD) from Feb. 2025. I received my Ph.D. degree from the University of Electronic Science and Technology of China (UESTC) in Dec. 2024, supervised by Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=en). From 2023 to 2024, I have been working closely with the RIKEN Center for Advanced Intelligence Project (RIKEN-AIP) mentored by Prof. [Gang Niu](https://niug1984.github.io/) and Prof. [Masashi Sugiyama](https://scholar.google.com/citations?user=GkYIrlIAAAAJ&hl=en). Before that, I received my B.Eng. degree from the UESTC in Jun. 2020, supervised by Prof. [Yazhou Ren](https://yazhou-ren.github.io/). Thank all the advisors for their helpful, decisive suggestions.
+
+**Much gratitude to my close collaborators**: [Peisheng Qian](https://scholar.google.com/citations?user=fRZk4PkAAAAJ&hl=en&oi=ao), [Xiaorui Jiang](https://xiaorui-jiang.github.io/), [Yuanyang Zhang](https://scholar.google.com/citations?user=UjeMnyMAAAAJ&hl=en&oi=ao), [Hongqing He](https://scholar.google.com/citations?user=BC-BUr8AAAAJ&hl=en&oi=ao), [Shangbo Yuan](https://scholar.google.com/citations?user=2_S2Fc0AAAAJ&hl=en&oi=ao), [Caixuan Luo](https://scholar.google.com/citations?user=zzUbP_sAAAAJ&hl=en&oi=ao), [Jincheng Huang](https://huangjc0429.github.io/JinchengHuang.github.io/), [Yujie Mo](https://scholar.google.com/citations?user=MH4nZY0AAAAJ&hl=en&oi=ao), [Liang Peng](https://scholar.google.com/citations?user=GuKZfakAAAAJ&hl=en), [Fangfei Lin](https://scholar.google.com/citations?hl=en&user=7EZJ4ZIAAAAJ), [Jianpeng Chen](https://cjpcool.github.io/), [Xinyue Chen](https://scholar.google.com/citations?hl=en&user=RBjE4q0AAAAJ), [Huayi Tang](https://scholar.google.com/citations?user=UfictKAAAAAJ&hl=en).
+
+I am currently working on <u>multi-view learning and its applications in 3D vision</u>. I am seeking extensive cooperation opportunities and if you are interested in our research topics or just want to have a chat, please feel free to contact me via Email or [<a href="JIE.jpg">WeChat</a>].
+
+# ✨ News
+
+<div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+  <ul>
+    <li><em>2026.10</em>, Top 2% Scientists listed by Stanford/Elsevier 2026.</li>
+    <li><em>2026.09</em>, One paper is accepted by NeurIPS 2026.</li>
+    <!-- <li><em>2026.09</em>, One paper is accepted by IEEE TPAMI. **Jie Xu**, Wenyuan Yang, Yazhou Ren, Lifang He, Philip S. Yu, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Enhancing Pair Utilization in Deep Incomplete Multi-View Clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.</li> -->
+    <li><em>2026.08</em>, Invited to serve as Area Chair for ICLR 2027.</li>
+    <li><em>2026.07</em>, Invited to serve as Senior Program Committee (SPC) for AAAI 2027.</li>
+    <li><em>2026.07</em>, Two paper are accepted by ACMMM 2026.</li>
+    <li><em>2026.06</em>, Two paper are accepted by ECCV 2026.</li>
+    <li><em>2026.05</em>, One paper is accepted by ICML 2026.</li>
+    <li><em>2026.05</em>, One paper is accepted by IJCAI 2026.</li>
+    <li><em>2026.04</em>, Invited to serve as Area Chair for ACMMM 2026 Dataset Track.</li>
+    <li><em>2026.03</em>, Invited to serve as Area Chair for NeurIPS 2026.</li>
+    <li><em>2026.03</em>, Invited to serve as Area Chair for ICME 2026.</li>
+    <li><em>2026.03</em>, One paper is accepted by IEEE TKDE.</li>
+    <li><em>2026.02</em>, Two papers are accepted by CVPR 2026.</li>
+    <li><em>2026.01</em>, One paper is accepted by ICLR 2026.</li>
+    <li><em>2025.11</em>, Three papers are accepted by AAAI 2026.</li>
+    <li><em>2025.08</em>, I will serve as an Area Chair for ICLR 2026.</li>
+    <li><em>2025.06</em>, Two papers are accepted by ICCV 2025.</li>
+    <li><em>2025.04</em>, One paper is accepted by IJCAI 2025.</li>
+    <li><em>2024.12</em>, I have obtained my doctoral degree from UESTC.</li>
+  </ul>
+</div>
+
+# 📖 Research
+
+I am excited about the ongoing developments in the field of artificial intelligence represented by machine learning and deep learning. The research topics that I am currently working on include:
+1. Multi-view 3D computer vision for 3D scene understanding and Embodied AI (project for MOE Academic Research Fund Tier 2 of Singapore No.MOE-T2EP20124-0013)
+   - Point cloud networks: graph-enhanced (AAAI26)
+   - Semantic segmentation: zero-shot (CVPR26F), hierarchical multi-label (ICML26)
+   - Object detection: open-vocabulary (ECCV26), incremental learning (ECCV26), cross-modal adaption (ACMMM26)
+2. Multi-view machine learning across multimodal/graph/omics/label sources (project for National Key R&D Program of China No.2022YFA1004100 & 2024YFC2310801; National Natural Science Foundation of China No.62636004 & 61876046 & No.61806043)
+   - Theory: multi-view consistency & complementarity & noise-view robustness (CVPR24, NeurIPS23), generalization (TKDE23), interpretability (INFFUS23)
+   - Algorithm: distribution alignment (TIP23), contrastive learning (CVPR22), view incompleteness (AAAI22), view generation (ICCV21), co-training (INFSCI21)
+   - Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), federated learning (NeurIPS24), medical fMRI (TMI22)
+
+**Publications (\*corresponding author; $^\ddagger$equal contribution):**
+1. Shangbo Yuan, **Jie Xu**\*, Xiaofeng Zhu, Na Zhao. Crossing Modalities, Closing Domains: Source-Free Indoor 3D Object Detection from Synthetic to Real Adaptation. ACM International Conference on Multimedia (MM), 2026.
+1. Shangbo Yuan, **Jie Xu**\*, Xiaofeng Zhu, Na Zhao. Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training. European Conference on Computer Vision (ECCV), 2026.
+1. Shuyu Cao, Chongshou Li, **Jie Xu**\*, Tianrui Li, Na Zhao. Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation. International Conference on Machine Learning (ICML), 2026.
+1. **Jie Xu**, Na Zhao. Stream3D: Streaming Zero-Shot 3D Instance Segmentation with Multi-View Noise Mask Filtering and Manifold Refining. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Findings track, 2026.
+1. Hongqing He$^\ddagger$, **Jie Xu**$^\ddagger$\*, Wenyuan Yang, Yonghua Zhu, Guoqiu Wen\*, Xiaofeng Zhu. Global-Graph Guided and Local-Graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+1. Shangbo Yuan, **Jie Xu**\*, Ping Hu, Xiaofeng Zhu, Na Zhao. Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral**</span>, 2026.
+1. **Jie Xu**, Na Zhao, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu. Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
+1. Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, **Jie Xu**\*, Yong Liao\*. A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns. IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
+1. Hongqing He, **Jie Xu**\*, Guoqiu Wen\*, Yazhou Ren, Na Zhao, Xiaofeng Zhu. Graph Embedded Contrastive Learning for Multi-View Clustering. International Joint Conference on Artificial Intelligence (IJCAI), 2025.
+1. Yuanyang Zhang, Yijie Lin, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, **Jie Xu**. Incomplete Multi-view Clustering via Diffusion Contrastive Generation. AAAI Conference on Artificial Intelligence (AAAI), 2025.
+1. Caixuan Luo, **Jie Xu**\*, Yazhou Ren, Junbo Ma, Xiaofeng Zhu. Simple Contrastive Multi-View Clustering with Data-Level Fusion. International Joint Conference on Artificial Intelligence (IJCAI), 2024.
+1. **Jie Xu**, Yazhou Ren, Xiaolong Wang, Lei Feng, Zheng Zhang, Gang Niu, Xiaofeng Zhu. Investigating and Mitigating the Side Effects of Noisy Views in Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+1. **Jie Xu**, Shuo Chen, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Gang Niu, Xiaofeng Zhu. Self-Weighted Contrastive Learning among Multiple Views for Mitigating Representation Degeneration. Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
+1. **Jie Xu**, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu. UNTIE: Clustering Analysis with Disentanglement in Multi-view Information Fusion. Information Fusion (Inf.Fus., IF=18.6), 2023.
+1. **Jie Xu**, Chao Li, Liang Peng, Yazhou Ren, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu. Adaptive Feature Projection with Distribution Alignment for Deep Incomplete Multi-view Clustering. IEEE Transactions on Image Processing (TIP, IF=10.8), <span style="color: red;">**ESI highly cited**</span>, 2023.
+1. **Jie Xu**, Yazhou Ren, Huayi Tang, Zhimeng Yang, Lili Pan, Yang Yang, Xiaorong Pu, Philip S. Yu, Lifang He. Self-Supervised Discriminative Feature Learning for Deep Multi-View Clustering. IEEE Transactions on Knowledge and Data Engineering (TKDE, IF=8.9), <span style="color: red;">**ESI highly cited**</span>, 2023.
+1. **Jie Xu**$^\ddagger$, Huayi Tang$^\ddagger$, Yazhou Ren, Liang Peng, Xiaofeng Zhu, Lifang He. Multi-Level Feature Learning for Contrastive Multi-View Clustering. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), <span style="color: red;">**Oral**</span>, 2022.
+1. **Jie Xu**, Chao Li, Yazhou Ren, Liang Peng, Yujie Mo, Xiaoshuang Shi, Xiaofeng Zhu. Deep Incomplete Multi-view Clustering via Mining Cluster Complementarity. AAAI Conference on Artificial Intelligence (AAAI), 2022.
+1. **Jie Xu**, Yazhou Ren, Huayi Tang, Xiaorong Pu, Xiaofeng Zhu, Ming Zeng, Lifang He. Multi-VAE: Learning Disentangled View-common and View-peculiar Visual Representations for Multi-view Clustering. IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
+1. **Jie Xu**, Yazhou Ren, Guofeng Li, Lili Pan, Ce Zhu, Zenglin Xu. Deep Embedded Multi-View Clustering with Collaborative Training. Information Sciences (Inf.Sci., IF=8.2), <span style="color: red;">**ESI highly cited**</span>, 2021.
+1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. Understanding and Mitigating Under-Confidence in GNNs from the Final Layer. Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
+1. Yuanyang Zhang, Xinhang Wan, Jiyuan Liu, **Jie Xu**, Li Yao, Yijie Lin, Tien-Tsin Wong. Robust Incomplete Multi-view Clustering via Cycle-Consistent Optimal Transport and Hybrid Imputation. ACM International Conference on Multimedia (MM), <span style="color: red;">**Oral**</span>, 2026.
+1. Peisheng Qian, **Jie Xu**, Xulei Yang, Na Zhao. Breaking the Model Forgetting Cycle in Long-Incremental 3D Object Detection. European Conference on Computer Vision (ECCV), 2026.
+1. Gaokai Wang, Yazhou Ren, Fengyu Zhang, **Jie Xu**, Chaoning Zhang, Zhen Long, Ce Zhu. Salient-Residual Decoupled Multi-View Learning for Clustering. International Joint Conference on Artificial Intelligence (IJCAI), 2026.
+1. Yuanyang Zhang, Yijie Lin, Xinhang Wan, **Jie Xu**, Li Yao, Weiqing Yan, Chang Tang. Structure-Aware Conditional Diffusion Generation for Incomplete Multi-View Clustering. IEEE Transactions on Knowledge and Data Engineering (TKDE, IF=10.4), 2026.
+1. Jincheng Huang, **Jie Xu**, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu. Revisiting Confidence Calibration for Misclassification Detection in VLMs. International Conference on Learning Representations (ICLR), 2026.
+1. Yuanyang Zhang, Yijie Lin, Xinhang Wan, Chao Zhang, **Jie Xu**, Cunjian Chen, Tien-Tsin Wong, Li Yao. Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral**</span>, 2026.
+1. Shuaiyu Liu, Song Wu, **Jie Xu**, Yazhou Ren, Yang Yang, Xiaorong Pu, Guoying Wang. Views Attention Fusion of Granular-ball Fuzzy Representations Split for Improved Multi-view Clustering. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral**</span>, 2026.
+1. Fangfei Lin, **Jie Xu**, Yazhou Ren, Junjie Chen, Irwin King, Zenglin Xu. Multi-modal Hierarchical Clustering for Cancer Subtype Identification using Multi-omics Data. International Joint Conference on Neural Networks (IJCNN), 2025.
+1. Jianpeng Chen, Yawen Ling, **Jie Xu**, Yazhou Ren, Shudong Huang, Xiaorong Pu, Lifang He. Variational Graph Generator for Multi-View Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=8.9), 2024.
+1. Xinyue Chen, Yazhou Ren, **Jie Xu**, Fangfei Lin, Xiaorong Pu, Lifang He. Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views. Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
+1. Yazhou Ren, Jingyu Pu, Zhimeng Yang, **Jie Xu**, Guofeng Li, Xiaorong Pu, Philip S Yu, Lifang He. Deep Clustering: A Comprehensive Survey. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.2), <span style="color: red;">**ESI highly cited & Hot paper**</span>, 2024.
+1. Yazhou Ren, Xinyue Chen, **Jie Xu**, Jingyu Pu, Yonghao Huang, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. A Novel Federated Multi-View Clustering Method for Unaligned and Incomplete Data Fusion. Information Fusion (Inf.Fus., IF=14.8), 2024.
+1. Liang Peng, Yujie Mo, **Jie Xu**, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu. GRLC: Graph Representation Learning with Constraints. IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.4), <span style="color: red;">**ESI highly cited**</span>, 2023.
+1. Xinyue Chen, **Jie Xu**, Yazhou Ren, Xiaorong Pu, Ce Zhu, Xiaofeng Zhu, Zhifeng Hao, Lifang He. Federated Deep Multi-View Clustering with Global Self-Supervision. ACM International Conference on Multimedia (MM), 2023.
+1. Yawen Ling, Jianpeng Chen, Yazhou Ren, Xiaorong Pu, **Jie Xu**, Xiaofeng Zhu, Lifang He. Dual Label-Guided Graph Refinement for Multi-View Graph Clustering. AAAI Conference on Artificial Intelligence (AAAI), 2023.
+1. Zhimeng Yang, Yazhou Ren, Zirui Wu, Ming Zeng, **Jie Xu**, Yang Yang, Xiaorong Pu, Philip S. Yu, Lifang He. DC-FUDA: Improving Deep Clustering via Fully Unsupervised Domain Adaptation. Neurocomputing (NEUCOM, IF=6.0), 2023.
+1. Liang Peng, Nan Wang, **Jie Xu**, Xiaofeng Zhu, Xiaoxiao Li. GATE: Graph CCA for Temporal SElf-supervised Learning for Label-efficient fMRI Analysis. IEEE Transactions on Medical Imaging (TMI, IF=11.0), 2022.
+1. Yujie Mo, Liang Peng, **Jie Xu**, Xiaoshuang Shi, Xiaofeng Zhu. Simple Unsupervised Graph Representation Learning. AAAI Conference on Artificial Intelligence (AAAI), <span style="color: red;">**Oral**</span>, 2022.
+1. Lujing Wang, Weifeng Yuan, Lu Zeng, **Jie Xu**, Yujie Mo, Xinxiang Zhao, Liang Peng. Dementia Analysis from Functional Connectivity Network with Graph Neural Networks. Information Processing and Management (IPM, IF=8.6), 2022.
+
+# 🏆 Honors and Awards
+
+- Stanford/Elsevier Top 2% Scientists List [2026](https://topscinet.com/scientist_profile/Xu,%20Jie/2003/?stype=single_year)
+- ACM Multimedia Outstanding Paper Award 2026
+- CVPR Compute Transparency Champion Award 2026
+- ICML Silver Reviewer Award 2025
+- AAAI Student Scholarship 2022
+- National Scholarship 2019 (Bachelor), 2022 (Doctor)
+- UESTC Outstanding Doctor Graduate Thesis Award 2025
+- UESTC Outstanding Doctor Graduate Students 2024
+- UESTC Academic Newcomer Award 2022
+- UESTC Outstanding Bachelor Graduate Thesis Award 2020
+- UESTC Outstanding Bachelor Graduate Students 2020
+- UESTC Annual Scholarship for Outstanding Students 2017-2024
+
+# 🤗 Talks
+
+- *2024.11.28*, Research on Deep Multi-View Clustering Method for Realistic Complex Data Application Scenarios, invited by Dean & Prof. Xiao-Ning Li at Sichuan Normal University.
+- *2024.05.02*, Deep Multi-View Learning towards Noisy Data, invited by Prof. [Zeyu Zhang](https://alex-zeyu.github.io/) at Huazhong Agricultural University.
+
+# 🏫 Educations
+
+- *2020.09 - 2024.12*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. of Computer Science and Technology.
+- *2016.09 - 2020.06*, University of Electronic Science and Technology of China, Chengdu, China, B.Eng. of Computer Science and Technology.
+
+# 💬 Services
+
+- Conference Area Chair/SPC: ICLR 2026-2027, AAAI 2027, ACMMM 2026, NeurIPS 2026, ICME 2026 etc.
+- Conference Reviewer: CVPR 2022-2027, ICCV 2023-2025, ECCV 2022-2026, NeurIPS 2024-2025, ICML 2024-2026, ICLR 2025, AISTATS 2025-2027, AAAI 2024-2026, IJCAI 2025-2027, ACMMM 2023-2026, KDD 2022-2027, CIKM 2022-2026, SDM 2024 etc.
+- Journal Reviewer: TPAMI, TIP, TKDE, TMM, IJCV, TNNLS, TCYB, TCSVT, TBD, TCSS, TKDD, TMLR, SCIS, FCS, Pattern Recognition, Information Fusion, Information Sciences, IPM, ESWA, EAAI, CVIU, DMKD, MEAS, BE, RENE, Machine Learning, Neural Networks, Neurocomputing etc.
