@@ -29,7 +29,7 @@ I am currently working on <u>multi-view learning and its applications in 3D visi
   <ul>
     <li><em>2026.10</em>, Top 2% Scientists listed by Stanford/Elsevier 2026.</li>
     <li><em>2026.09</em>, One paper is accepted by NeurIPS 2026.</li>
-    <!-- <li><em>2026.09</em>, One paper is accepted by IEEE TPAMI. **Jie Xu**, Wenyuan Yang, Yazhou Ren, Lifang He, Philip S. Yu, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Enhancing Pair Utilization in Deep Incomplete Multi-View Clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.</li> -->
+    <li><em>2026.09</em>, One paper is accepted by IEEE TPAMI.</li>
     <li><em>2026.08</em>, Invited to serve as Area Chair for ICLR 2027.</li>
     <li><em>2026.07</em>, Invited to serve as Senior Program Committee (SPC) for AAAI 2027.</li>
     <li><em>2026.07</em>, Two paper are accepted by ACMMM 2026.</li>
@@ -59,10 +59,11 @@ I am excited about the ongoing developments in the field of artificial intellige
    - Object detection: open-vocabulary (ECCV26), incremental learning (ECCV26), cross-modal adaption (ACMMM26)
 2. Multi-view machine learning across multimodal/graph/omics/label sources (project for National Key R&D Program of China No.2022YFA1004100 & 2024YFC2310801; National Natural Science Foundation of China No.62636004 & 61876046 & No.61806043)
    - Theory: multi-view consistency & complementarity & noise-view robustness (CVPR24, NeurIPS23), generalization (TKDE23), interpretability (INFFUS23)
-   - Algorithm: distribution alignment (TIP23), contrastive learning (CVPR22), view incompleteness (AAAI22), view generation (ICCV21), co-training (INFSCI21)
+   - Algorithm: pair utilization (TPAMI26), distribution alignment (TIP23), contrastive learning (CVPR22), view incompleteness (AAAI22), view generation (ICCV21), co-training (INFSCI21)
    - Application: cross-modal retrieval (ICCV25), graph data mining (IJCAI25), genomic multi-omics (IJCNN25), federated learning (NeurIPS24), medical fMRI (TMI22)
 
 **Publications (\*corresponding author; $^\ddagger$equal contribution):**
+1. **Jie Xu**, Wenyuan Yang, Yazhou Ren, Lifang He, Philip S. Yu, Xiaofeng Zhu. Missing Pattern Tree based Decision Grouping and Ensemble for Enhancing Pair Utilization in Deep Incomplete Multi-View Clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
 1. Shangbo Yuan, **Jie Xu**\*, Xiaofeng Zhu, Na Zhao. Crossing Modalities, Closing Domains: Source-Free Indoor 3D Object Detection from Synthetic to Real Adaptation. ACM International Conference on Multimedia (MM), 2026.
 1. Shangbo Yuan, **Jie Xu**\*, Xiaofeng Zhu, Na Zhao. Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training. European Conference on Computer Vision (ECCV), 2026.
 1. Shuyu Cao, Chongshou Li, **Jie Xu**\*, Tianrui Li, Na Zhao. Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation. International Conference on Machine Learning (ICML), 2026.
